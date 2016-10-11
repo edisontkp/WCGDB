@@ -1,0 +1,5483 @@
+[
+  {
+    "acct_opng_brnch_id": 3426162,
+    "brnch_nm": "RANTAU PANJANG SC",
+    "st_nm": "KELANTAN",
+    "Num": 10,
+    "good_branch_score": 94.20528815819236
+  },
+  {
+    "acct_opng_brnch_id": 3426228,
+    "brnch_nm": "BUKIT MERTAJAM SC",
+    "st_nm": "PENANG",
+    "Num": 6,
+    "good_branch_score": 94.1
+  },
+  {
+    "acct_opng_brnch_id": 3426396,
+    "brnch_nm": "KUALA BERANG",
+    "st_nm": "TERENGGANU",
+    "Num": 18,
+    "good_branch_score": 88.2
+  },
+  {
+    "acct_opng_brnch_id": 3426175,
+    "brnch_nm": "MASJID TANAH",
+    "st_nm": "MELAKA",
+    "Num": 12,
+    "good_branch_score": 88.06
+  },
+  {
+    "acct_opng_brnch_id": 3426266,
+    "brnch_nm": "PULAU PANGKOR SC",
+    "st_nm": "PERAK",
+    "Num": 126,
+    "good_branch_score": 86.91680853343493
+  },
+  {
+    "acct_opng_brnch_id": 3426164,
+    "brnch_nm": "TUMPAT SC",
+    "st_nm": "KELANTAN",
+    "Num": 6,
+    "good_branch_score": 85.61024536006381
+  },
+  {
+    "acct_opng_brnch_id": 3426124,
+    "brnch_nm": "TMN INTAN, KLUANG",
+    "st_nm": "JOHOR",
+    "Num": 42,
+    "good_branch_score": 85.18533950801002
+  },
+  {
+    "acct_opng_brnch_id": 3426122,
+    "brnch_nm": "KELAPA SAWIT SC",
+    "st_nm": "JOHOR",
+    "Num": 18,
+    "good_branch_score": 83.17321237951245
+  },
+  {
+    "acct_opng_brnch_id": 3426262,
+    "brnch_nm": "SUNGAI SIPUT",
+    "st_nm": "PERAK",
+    "Num": 24,
+    "good_branch_score": 83.0946648174383
+  },
+  {
+    "acct_opng_brnch_id": 3426147,
+    "brnch_nm": "BALING",
+    "st_nm": "KEDAH",
+    "Num": 54,
+    "good_branch_score": 81.15685239639097
+  },
+  {
+    "acct_opng_brnch_id": 3426399,
+    "brnch_nm": "PAKA",
+    "st_nm": "TERENGGANU",
+    "Num": 67,
+    "good_branch_score": 80.8616769247253
+  },
+  {
+    "acct_opng_brnch_id": 3426276,
+    "brnch_nm": "KUALA PERLIS SC",
+    "st_nm": "PERLIS",
+    "Num": 42,
+    "good_branch_score": 78.20275921652129
+  },
+  {
+    "acct_opng_brnch_id": 3426318,
+    "brnch_nm": "MATANG JAYA",
+    "st_nm": "SARAWAK",
+    "Num": 41,
+    "good_branch_score": 75.22929694741265
+  },
+  {
+    "acct_opng_brnch_id": 426996,
+    "brnch_nm": "JERTEH",
+    "st_nm": "TERENGGANU",
+    "Num": 29,
+    "good_branch_score": 74.33429267015083
+  },
+  {
+    "acct_opng_brnch_id": 3426263,
+    "brnch_nm": "SELAMA SC",
+    "st_nm": "PERAK",
+    "Num": 71,
+    "good_branch_score": 71.13857010202503
+  },
+  {
+    "acct_opng_brnch_id": 3426184,
+    "brnch_nm": "GEMAS",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 108,
+    "good_branch_score": 70.61658472124667
+  },
+  {
+    "acct_opng_brnch_id": 3426095,
+    "brnch_nm": "JLN AWANG, SEGAMAT SC",
+    "st_nm": "JOHOR",
+    "Num": 68,
+    "good_branch_score": 70.06836886947067
+  },
+  {
+    "acct_opng_brnch_id": 3426743,
+    "brnch_nm": "IBS MATANG JAYA",
+    "st_nm": "SARAWAK",
+    "Num": 190,
+    "good_branch_score": 67.78386972139279
+  },
+  {
+    "acct_opng_brnch_id": 3426397,
+    "brnch_nm": "KERTEH",
+    "st_nm": "TERENGGANU",
+    "Num": 12,
+    "good_branch_score": 67.68771056798295
+  },
+  {
+    "acct_opng_brnch_id": 3426108,
+    "brnch_nm": "FELDA AIR TAWAR SC",
+    "st_nm": "JOHOR",
+    "Num": 24,
+    "good_branch_score": 67.59983749806545
+  },
+  {
+    "acct_opng_brnch_id": 3426163,
+    "brnch_nm": "BACHOK SC",
+    "st_nm": "KELANTAN",
+    "Num": 12,
+    "good_branch_score": 66.98115453755402
+  },
+  {
+    "acct_opng_brnch_id": 3426257,
+    "brnch_nm": "SLIM RIVER",
+    "st_nm": "PERAK",
+    "Num": 18,
+    "good_branch_score": 66.692361417001
+  },
+  {
+    "acct_opng_brnch_id": 3426636,
+    "brnch_nm": "IBS BUKIT MERTAJAM SC",
+    "st_nm": "PENANG",
+    "Num": 48,
+    "good_branch_score": 66.38858795938047
+  },
+  {
+    "acct_opng_brnch_id": 3426237,
+    "brnch_nm": "TMN DESA DAMAI,BKT MERTAJAM SC",
+    "st_nm": "PENANG",
+    "Num": 4,
+    "good_branch_score": 66.3347182704556
+  },
+  {
+    "acct_opng_brnch_id": 3426258,
+    "brnch_nm": "LUMUT",
+    "st_nm": "PERAK",
+    "Num": 30,
+    "good_branch_score": 66.33323015750187
+  },
+  {
+    "acct_opng_brnch_id": 3426403,
+    "brnch_nm": "WISMA HANGSAM",
+    "st_nm": "FED. TERRITORY",
+    "Num": 228,
+    "good_branch_score": 66.32289840185172
+  },
+  {
+    "acct_opng_brnch_id": 3426106,
+    "brnch_nm": "BANDAR TENGGARA SC",
+    "st_nm": "JOHOR",
+    "Num": 18,
+    "good_branch_score": 65.15295817013694
+  },
+  {
+    "acct_opng_brnch_id": 3426260,
+    "brnch_nm": "PANTAI REMIS",
+    "st_nm": "PERAK",
+    "Num": 36,
+    "good_branch_score": 65.14768032952773
+  },
+  {
+    "acct_opng_brnch_id": 3426603,
+    "brnch_nm": "IBS GENTING HIGHLANDS",
+    "st_nm": "PAHANG",
+    "Num": 6,
+    "good_branch_score": 64.93083250991083
+  },
+  {
+    "acct_opng_brnch_id": 3426099,
+    "brnch_nm": "MERSING",
+    "st_nm": "JOHOR",
+    "Num": 30,
+    "good_branch_score": 64.6551744663627
+  },
+  {
+    "acct_opng_brnch_id": 3426402,
+    "brnch_nm": "JLN TUANKU ABD RAHMAN, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 360,
+    "good_branch_score": 64.27892880558986
+  },
+  {
+    "acct_opng_brnch_id": 3426250,
+    "brnch_nm": "GERIK",
+    "st_nm": "PERAK",
+    "Num": 15,
+    "good_branch_score": 64.18766890082026
+  },
+  {
+    "acct_opng_brnch_id": 3426131,
+    "brnch_nm": "BUKIT PASIR, BP",
+    "st_nm": "JOHOR",
+    "Num": 209,
+    "good_branch_score": 64.06133955807167
+  },
+  {
+    "acct_opng_brnch_id": 3426272,
+    "brnch_nm": "PARIT BUNTAR",
+    "st_nm": "PERAK",
+    "Num": 126,
+    "good_branch_score": 63.327374267683076
+  },
+  {
+    "acct_opng_brnch_id": 3426271,
+    "brnch_nm": "LANGKAP SC",
+    "st_nm": "PERAK",
+    "Num": 60,
+    "good_branch_score": 63.31600673817546
+  },
+  {
+    "acct_opng_brnch_id": 3426127,
+    "brnch_nm": "JLN SULAIMAN, MUAR",
+    "st_nm": "JOHOR",
+    "Num": 237,
+    "good_branch_score": 62.93467779378326
+  },
+  {
+    "acct_opng_brnch_id": 17393263,
+    "brnch_nm": "IBS ONE CITY USJ",
+    "st_nm": "SELANGOR",
+    "Num": 112,
+    "good_branch_score": 62.66267554772477
+  },
+  {
+    "acct_opng_brnch_id": 3426468,
+    "brnch_nm": "MENARA FELDA, PLATINUM PARK SC",
+    "st_nm": "FED. TERRITORY",
+    "Num": 48,
+    "good_branch_score": 62.57749348206527
+  },
+  {
+    "acct_opng_brnch_id": 3426285,
+    "brnch_nm": "SIPITANG",
+    "st_nm": "SABAH",
+    "Num": 121,
+    "good_branch_score": 62.32187287943905
+  },
+  {
+    "acct_opng_brnch_id": 3426153,
+    "brnch_nm": "GURUN",
+    "st_nm": "KEDAH",
+    "Num": 213,
+    "good_branch_score": 62.31356532712344
+  },
+  {
+    "acct_opng_brnch_id": 3426140,
+    "brnch_nm": "GELANG PATAH, JB",
+    "st_nm": "JOHOR",
+    "Num": 632,
+    "good_branch_score": 62.2982208121525
+  },
+  {
+    "acct_opng_brnch_id": 426979,
+    "brnch_nm": "TAIPING",
+    "st_nm": "PERAK",
+    "Num": 409,
+    "good_branch_score": 61.62631504195648
+  },
+  {
+    "acct_opng_brnch_id": 3426473,
+    "brnch_nm": "ONE CITY USJ",
+    "st_nm": "SELANGOR",
+    "Num": 114,
+    "good_branch_score": 61.60363020194685
+  },
+  {
+    "acct_opng_brnch_id": 3426145,
+    "brnch_nm": "ALOR SETAR",
+    "st_nm": "KEDAH",
+    "Num": 133,
+    "good_branch_score": 61.529538885487995
+  },
+  {
+    "acct_opng_brnch_id": 3426112,
+    "brnch_nm": "PAGOH SC",
+    "st_nm": "JOHOR",
+    "Num": 42,
+    "good_branch_score": 61.190864517094596
+  },
+  {
+    "acct_opng_brnch_id": 3426218,
+    "brnch_nm": "BALIK PULAU",
+    "st_nm": "PENANG",
+    "Num": 43,
+    "good_branch_score": 61.05020595483279
+  },
+  {
+    "acct_opng_brnch_id": 3426320,
+    "brnch_nm": "TANJONG KARANG",
+    "st_nm": "SELANGOR",
+    "Num": 150,
+    "good_branch_score": 60.93227300325004
+  },
+  {
+    "acct_opng_brnch_id": 3426356,
+    "brnch_nm": "KLIA",
+    "st_nm": "SELANGOR",
+    "Num": 66,
+    "good_branch_score": 60.92921560754512
+  },
+  {
+    "acct_opng_brnch_id": 3426117,
+    "brnch_nm": "BANDAR BARU PERMAS JAYA",
+    "st_nm": "JOHOR",
+    "Num": 78,
+    "good_branch_score": 60.86036280651692
+  },
+  {
+    "acct_opng_brnch_id": 3426200,
+    "brnch_nm": "KUALA LIPIS",
+    "st_nm": "PAHANG",
+    "Num": 86,
+    "good_branch_score": 60.77671559582059
+  },
+  {
+    "acct_opng_brnch_id": 3426679,
+    "brnch_nm": "IBS PULAU PANGKOR SC",
+    "st_nm": "PERAK",
+    "Num": 378,
+    "good_branch_score": 60.752115491286126
+  },
+  {
+    "acct_opng_brnch_id": 3426395,
+    "brnch_nm": "KEMAMAN",
+    "st_nm": "TERENGGANU",
+    "Num": 335,
+    "good_branch_score": 60.61756501565495
+  },
+  {
+    "acct_opng_brnch_id": 3426264,
+    "brnch_nm": "BAGAN SERAI",
+    "st_nm": "PERAK",
+    "Num": 6,
+    "good_branch_score": 60.382266455553044
+  },
+  {
+    "acct_opng_brnch_id": 3426277,
+    "brnch_nm": "PADANG BESAR SC",
+    "st_nm": "PERLIS",
+    "Num": 240,
+    "good_branch_score": 60.1404551868248
+  },
+  {
+    "acct_opng_brnch_id": 3426740,
+    "brnch_nm": "IBS TUDAN",
+    "st_nm": "SARAWAK",
+    "Num": 103,
+    "good_branch_score": 60.052854051833954
+  },
+  {
+    "acct_opng_brnch_id": 3426355,
+    "brnch_nm": "KAJANG PRIMA",
+    "st_nm": "SELANGOR",
+    "Num": 280,
+    "good_branch_score": 60.03203230774393
+  },
+  {
+    "acct_opng_brnch_id": 3426103,
+    "brnch_nm": "JLN LARKIN, JB",
+    "st_nm": "JOHOR",
+    "Num": 167,
+    "good_branch_score": 59.94104743482973
+  },
+  {
+    "acct_opng_brnch_id": 3426273,
+    "brnch_nm": "KLEBANG",
+    "st_nm": "PERAK",
+    "Num": 312,
+    "good_branch_score": 59.93584020078384
+  },
+  {
+    "acct_opng_brnch_id": 3426171,
+    "brnch_nm": "MERLIMAU",
+    "st_nm": "MELAKA",
+    "Num": 46,
+    "good_branch_score": 59.906615951777205
+  },
+  {
+    "acct_opng_brnch_id": 3426882,
+    "brnch_nm": "IBS JLN BUNUS, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1058,
+    "good_branch_score": 59.64755760286201
+  },
+  {
+    "acct_opng_brnch_id": 3426256,
+    "brnch_nm": "MENGLEMBU",
+    "st_nm": "PERAK",
+    "Num": 517,
+    "good_branch_score": 59.60284078368202
+  },
+  {
+    "acct_opng_brnch_id": 3426295,
+    "brnch_nm": "DONGGONGON",
+    "st_nm": "SABAH",
+    "Num": 165,
+    "good_branch_score": 59.50231291573348
+  },
+  {
+    "acct_opng_brnch_id": 3426197,
+    "brnch_nm": "KARAK",
+    "st_nm": "PAHANG",
+    "Num": 168,
+    "good_branch_score": 59.21259941107674
+  },
+  {
+    "acct_opng_brnch_id": 3426269,
+    "brnch_nm": "KAMUNTING",
+    "st_nm": "PERAK",
+    "Num": 185,
+    "good_branch_score": 59.175714393425324
+  },
+  {
+    "acct_opng_brnch_id": 3426213,
+    "brnch_nm": "JELUTONG",
+    "st_nm": "PENANG",
+    "Num": 249,
+    "good_branch_score": 59.037842555769764
+  },
+  {
+    "acct_opng_brnch_id": 3426249,
+    "brnch_nm": "TELUK INTAN",
+    "st_nm": "PERAK",
+    "Num": 159,
+    "good_branch_score": 58.974838986178405
+  },
+  {
+    "acct_opng_brnch_id": 3426157,
+    "brnch_nm": "CHANGLUN",
+    "st_nm": "KEDAH",
+    "Num": 273,
+    "good_branch_score": 58.80838239145704
+  },
+  {
+    "acct_opng_brnch_id": 3426196,
+    "brnch_nm": "GENTING HIGHLANDS",
+    "st_nm": "PAHANG",
+    "Num": 423,
+    "good_branch_score": 58.51999661486654
+  },
+  {
+    "acct_opng_brnch_id": 3426336,
+    "brnch_nm": "SUNGAI BESAR",
+    "st_nm": "SELANGOR",
+    "Num": 1059,
+    "good_branch_score": 58.164513682882955
+  },
+  {
+    "acct_opng_brnch_id": 3426210,
+    "brnch_nm": "KG RAJA, CAMERON HIGHLANDS SC",
+    "st_nm": "PERAK",
+    "Num": 232,
+    "good_branch_score": 58.13978707316725
+  },
+  {
+    "acct_opng_brnch_id": 3426092,
+    "brnch_nm": "PONTIAN",
+    "st_nm": "JOHOR",
+    "Num": 84,
+    "good_branch_score": 57.98347089166028
+  },
+  {
+    "acct_opng_brnch_id": 3426496,
+    "brnch_nm": "IBS TANGKAK",
+    "st_nm": "JOHOR",
+    "Num": 1623,
+    "good_branch_score": 57.957906651119686
+  },
+  {
+    "acct_opng_brnch_id": 3426161,
+    "brnch_nm": "TANAH MERAH",
+    "st_nm": "KELANTAN",
+    "Num": 71,
+    "good_branch_score": 57.902962048249485
+  },
+  {
+    "acct_opng_brnch_id": 3426707,
+    "brnch_nm": "IBS BANDAR SAHABAT SC",
+    "st_nm": "SABAH",
+    "Num": 339,
+    "good_branch_score": 57.824722432994726
+  },
+  {
+    "acct_opng_brnch_id": 3426530,
+    "brnch_nm": "IBS RENGIT",
+    "st_nm": "JOHOR",
+    "Num": 2899,
+    "good_branch_score": 57.73928773293587
+  },
+  {
+    "acct_opng_brnch_id": 3426724,
+    "brnch_nm": "IBS KOTA SENTOSA, KUCHING",
+    "st_nm": "SARAWAK",
+    "Num": 598,
+    "good_branch_score": 57.69116299003559
+  },
+  {
+    "acct_opng_brnch_id": 3426154,
+    "brnch_nm": "CENANG MALL, LANGKAWI SC",
+    "st_nm": "KEDAH",
+    "Num": 131,
+    "good_branch_score": 57.685183481621536
+  },
+  {
+    "acct_opng_brnch_id": 3426267,
+    "brnch_nm": "STATION 18, IPOH",
+    "st_nm": "PERAK",
+    "Num": 716,
+    "good_branch_score": 57.644525530065835
+  },
+  {
+    "acct_opng_brnch_id": 3426252,
+    "brnch_nm": "BIDOR",
+    "st_nm": "PERAK",
+    "Num": 215,
+    "good_branch_score": 57.6319541322101
+  },
+  {
+    "acct_opng_brnch_id": 3426192,
+    "brnch_nm": "MENTAKAB",
+    "st_nm": "PAHANG",
+    "Num": 714,
+    "good_branch_score": 57.62255673111752
+  },
+  {
+    "acct_opng_brnch_id": 3426222,
+    "brnch_nm": "KAMPUNG BARU",
+    "st_nm": "PENANG",
+    "Num": 274,
+    "good_branch_score": 57.51886364155556
+  },
+  {
+    "acct_opng_brnch_id": 3426879,
+    "brnch_nm": "IBS SEGAMBUT",
+    "st_nm": "FED. TERRITORY",
+    "Num": 850,
+    "good_branch_score": 57.36174370634223
+  },
+  {
+    "acct_opng_brnch_id": 3426548,
+    "brnch_nm": "IBS BALING",
+    "st_nm": "KEDAH",
+    "Num": 1815,
+    "good_branch_score": 57.3301376454709
+  },
+  {
+    "acct_opng_brnch_id": 3426098,
+    "brnch_nm": "TANGKAK",
+    "st_nm": "JOHOR",
+    "Num": 133,
+    "good_branch_score": 57.32501852128276
+  },
+  {
+    "acct_opng_brnch_id": 3426552,
+    "brnch_nm": "IBS KODIANG SC",
+    "st_nm": "KEDAH",
+    "Num": 42,
+    "good_branch_score": 57.30527404237806
+  },
+  {
+    "acct_opng_brnch_id": 3426618,
+    "brnch_nm": "IBS KG RAJA, CAMERON HIGHLANDS",
+    "st_nm": "PERAK",
+    "Num": 1102,
+    "good_branch_score": 57.29039995395765
+  },
+  {
+    "acct_opng_brnch_id": 3426393,
+    "brnch_nm": "THE REEF, RAWANG",
+    "st_nm": "SELANGOR",
+    "Num": 770,
+    "good_branch_score": 57.26921081672332
+  },
+  {
+    "acct_opng_brnch_id": 3426514,
+    "brnch_nm": "IBS YONG PENG",
+    "st_nm": "JOHOR",
+    "Num": 1073,
+    "good_branch_score": 57.1612075103623
+  },
+  {
+    "acct_opng_brnch_id": 3426507,
+    "brnch_nm": "IBS SIMPANG RENGGAM",
+    "st_nm": "JOHOR",
+    "Num": 1144,
+    "good_branch_score": 56.99084629505285
+  },
+  {
+    "acct_opng_brnch_id": 3426505,
+    "brnch_nm": "IBS SUNGAI RENGIT",
+    "st_nm": "JOHOR",
+    "Num": 312,
+    "good_branch_score": 56.975176043762396
+  },
+  {
+    "acct_opng_brnch_id": 3426135,
+    "brnch_nm": "TMN NUSA BESTARI, SKUDAI",
+    "st_nm": "JOHOR",
+    "Num": 1175,
+    "good_branch_score": 56.91384176837806
+  },
+  {
+    "acct_opng_brnch_id": 3426160,
+    "brnch_nm": "GUA MUSANG",
+    "st_nm": "KELANTAN",
+    "Num": 48,
+    "good_branch_score": 56.90674144930297
+  },
+  {
+    "acct_opng_brnch_id": 3426207,
+    "brnch_nm": "TMN TAS, KUANTAN",
+    "st_nm": "PAHANG",
+    "Num": 1298,
+    "good_branch_score": 56.85938036608243
+  },
+  {
+    "acct_opng_brnch_id": 3426686,
+    "brnch_nm": "IBS HUTAN MELINTANG",
+    "st_nm": "PERAK",
+    "Num": 1692,
+    "good_branch_score": 56.83634076055417
+  },
+  {
+    "acct_opng_brnch_id": 3426268,
+    "brnch_nm": "BERCHAM",
+    "st_nm": "PERAK",
+    "Num": 688,
+    "good_branch_score": 56.823239711187085
+  },
+  {
+    "acct_opng_brnch_id": 3426333,
+    "brnch_nm": "PULAU KETAM SC",
+    "st_nm": "SELANGOR",
+    "Num": 144,
+    "good_branch_score": 56.61405443318768
+  },
+  {
+    "acct_opng_brnch_id": 3426111,
+    "brnch_nm": "PARIT JAWA SC",
+    "st_nm": "JOHOR",
+    "Num": 384,
+    "good_branch_score": 56.56575581943741
+  },
+  {
+    "acct_opng_brnch_id": 3426138,
+    "brnch_nm": "PARIT RAJA",
+    "st_nm": "JOHOR",
+    "Num": 129,
+    "good_branch_score": 56.55189076926241
+  },
+  {
+    "acct_opng_brnch_id": 3426308,
+    "brnch_nm": "BAU",
+    "st_nm": "SARAWAK",
+    "Num": 48,
+    "good_branch_score": 56.54434874224693
+  },
+  {
+    "acct_opng_brnch_id": 3426363,
+    "brnch_nm": "SEMENYIH",
+    "st_nm": "SELANGOR",
+    "Num": 277,
+    "good_branch_score": 56.45281207996239
+  },
+  {
+    "acct_opng_brnch_id": 3426130,
+    "brnch_nm": "LAYANG-LAYANG SC",
+    "st_nm": "JOHOR",
+    "Num": 197,
+    "good_branch_score": 56.436762552495374
+  },
+  {
+    "acct_opng_brnch_id": 3426859,
+    "brnch_nm": "IBS JLN TUN H.S. LEE, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 548,
+    "good_branch_score": 56.413610578697366
+  },
+  {
+    "acct_opng_brnch_id": 3426282,
+    "brnch_nm": "INANAM",
+    "st_nm": "SABAH",
+    "Num": 1270,
+    "good_branch_score": 56.39160846572211
+  },
+  {
+    "acct_opng_brnch_id": 3426194,
+    "brnch_nm": "CAMERON HIGHLANDS",
+    "st_nm": "PAHANG",
+    "Num": 198,
+    "good_branch_score": 56.36992030243064
+  },
+  {
+    "acct_opng_brnch_id": 3426156,
+    "brnch_nm": "LAGENDA HEIGHTS, SG PETANI",
+    "st_nm": "KEDAH",
+    "Num": 306,
+    "good_branch_score": 56.36952027206673
+  },
+  {
+    "acct_opng_brnch_id": 426972,
+    "brnch_nm": "SEREMBAN",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 1308,
+    "good_branch_score": 56.35911134540222
+  },
+  {
+    "acct_opng_brnch_id": 3426368,
+    "brnch_nm": "INTAN MILLENNIUM",
+    "st_nm": "SELANGOR",
+    "Num": 1462,
+    "good_branch_score": 56.35581860983357
+  },
+  {
+    "acct_opng_brnch_id": 3426291,
+    "brnch_nm": "MILE 4 TAWAU",
+    "st_nm": "SABAH",
+    "Num": 420,
+    "good_branch_score": 56.3396979663292
+  },
+  {
+    "acct_opng_brnch_id": 3426755,
+    "brnch_nm": "IBS SEKINCHAN",
+    "st_nm": "SELANGOR",
+    "Num": 372,
+    "good_branch_score": 56.32175967842556
+  },
+  {
+    "acct_opng_brnch_id": 3426360,
+    "brnch_nm": "TMN BUKIT EMAS, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 487,
+    "good_branch_score": 56.31993347665167
+  },
+  {
+    "acct_opng_brnch_id": 3426248,
+    "brnch_nm": "KAMPAR",
+    "st_nm": "PERAK",
+    "Num": 290,
+    "good_branch_score": 56.239211181085494
+  },
+  {
+    "acct_opng_brnch_id": 3426217,
+    "brnch_nm": "PENANG TIMES SQUARE",
+    "st_nm": "PENANG",
+    "Num": 398,
+    "good_branch_score": 56.09289436657941
+  },
+  {
+    "acct_opng_brnch_id": 3426630,
+    "brnch_nm": "IBS KAMPUNG BARU",
+    "st_nm": "PENANG",
+    "Num": 863,
+    "good_branch_score": 55.96484063923333
+  },
+  {
+    "acct_opng_brnch_id": 3426354,
+    "brnch_nm": "TMN SRI GOMBAK, S'GOR",
+    "st_nm": "SELANGOR",
+    "Num": 1205,
+    "good_branch_score": 55.958488753130354
+  },
+  {
+    "acct_opng_brnch_id": 3426188,
+    "brnch_nm": "SENAWANG",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 887,
+    "good_branch_score": 55.95174834332443
+  },
+  {
+    "acct_opng_brnch_id": 3426508,
+    "brnch_nm": "IBS SKUDAI",
+    "st_nm": "JOHOR",
+    "Num": 2281,
+    "good_branch_score": 55.9484614029234
+  },
+  {
+    "acct_opng_brnch_id": 3426605,
+    "brnch_nm": "IBS KARAK",
+    "st_nm": "PAHANG",
+    "Num": 1061,
+    "good_branch_score": 55.89638071642381
+  },
+  {
+    "acct_opng_brnch_id": 3426244,
+    "brnch_nm": "TASEK GELUGOR SC",
+    "st_nm": "PENANG",
+    "Num": 274,
+    "good_branch_score": 55.88207399294437
+  },
+  {
+    "acct_opng_brnch_id": 3426101,
+    "brnch_nm": "LABIS",
+    "st_nm": "JOHOR",
+    "Num": 90,
+    "good_branch_score": 55.86602221455017
+  },
+  {
+    "acct_opng_brnch_id": 3426278,
+    "brnch_nm": "TAWAU",
+    "st_nm": "SABAH",
+    "Num": 1438,
+    "good_branch_score": 55.84936385297103
+  },
+  {
+    "acct_opng_brnch_id": 3426270,
+    "brnch_nm": "HUTAN MELINTANG",
+    "st_nm": "PERAK",
+    "Num": 134,
+    "good_branch_score": 55.81650206720146
+  },
+  {
+    "acct_opng_brnch_id": 3426388,
+    "brnch_nm": "SUNWAY PYRAMID SC",
+    "st_nm": "SELANGOR",
+    "Num": 453,
+    "good_branch_score": 55.79388407897712
+  },
+  {
+    "acct_opng_brnch_id": 3426449,
+    "brnch_nm": "JLN BUNUS, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 588,
+    "good_branch_score": 55.76712278919764
+  },
+  {
+    "acct_opng_brnch_id": 3426898,
+    "brnch_nm": "IBS PWL PAVILLION",
+    "st_nm": "FED. TERRITORY",
+    "Num": 36,
+    "good_branch_score": 55.68554387552233
+  },
+  {
+    "acct_opng_brnch_id": 3426254,
+    "brnch_nm": "TAPAH",
+    "st_nm": "PERAK",
+    "Num": 149,
+    "good_branch_score": 55.6808960027302
+  },
+  {
+    "acct_opng_brnch_id": 3426137,
+    "brnch_nm": "SENAI",
+    "st_nm": "JOHOR",
+    "Num": 289,
+    "good_branch_score": 55.607676153158835
+  },
+  {
+    "acct_opng_brnch_id": 3426871,
+    "brnch_nm": "IBS JLN KENANGA, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2397,
+    "good_branch_score": 55.513974372710734
+  },
+  {
+    "acct_opng_brnch_id": 3426528,
+    "brnch_nm": "IBS JLN ZABEDAH, BP",
+    "st_nm": "JOHOR",
+    "Num": 2106,
+    "good_branch_score": 55.45034118464572
+  },
+  {
+    "acct_opng_brnch_id": 3426109,
+    "brnch_nm": "SIMPANG RENGGAM",
+    "st_nm": "JOHOR",
+    "Num": 75,
+    "good_branch_score": 55.4033381349778
+  },
+  {
+    "acct_opng_brnch_id": 3426225,
+    "brnch_nm": "GELUGOR",
+    "st_nm": "PENANG",
+    "Num": 367,
+    "good_branch_score": 55.387060884923955
+  },
+  {
+    "acct_opng_brnch_id": 3426461,
+    "brnch_nm": "TMN KINRARA, S'GOR",
+    "st_nm": "SELANGOR",
+    "Num": 1765,
+    "good_branch_score": 55.34586642055351
+  },
+  {
+    "acct_opng_brnch_id": 3426319,
+    "brnch_nm": "RAWANG",
+    "st_nm": "SELANGOR",
+    "Num": 865,
+    "good_branch_score": 55.33296527339612
+  },
+  {
+    "acct_opng_brnch_id": 426967,
+    "brnch_nm": "JLN ZABEDAH, BP",
+    "st_nm": "JOHOR",
+    "Num": 398,
+    "good_branch_score": 55.290304207882166
+  },
+  {
+    "acct_opng_brnch_id": 426969,
+    "brnch_nm": "TMN RIA JAYA, SG PETANI",
+    "st_nm": "KEDAH",
+    "Num": 843,
+    "good_branch_score": 55.28480858538358
+  },
+  {
+    "acct_opng_brnch_id": 3426498,
+    "brnch_nm": "IBS KULAI",
+    "st_nm": "JOHOR",
+    "Num": 1602,
+    "good_branch_score": 55.188984129711606
+  },
+  {
+    "acct_opng_brnch_id": 3426243,
+    "brnch_nm": "WISMA JELUTONG",
+    "st_nm": "PENANG",
+    "Num": 368,
+    "good_branch_score": 55.18513315634711
+  },
+  {
+    "acct_opng_brnch_id": 3426729,
+    "brnch_nm": "IBS PELITA COMMERCIAL CTR",
+    "st_nm": "SARAWAK",
+    "Num": 1083,
+    "good_branch_score": 55.16213227866241
+  },
+  {
+    "acct_opng_brnch_id": 3426739,
+    "brnch_nm": "IBS BATU KAWAH",
+    "st_nm": "SARAWAK",
+    "Num": 1292,
+    "good_branch_score": 55.146684492802336
+  },
+  {
+    "acct_opng_brnch_id": 3426255,
+    "brnch_nm": "LENGGONG SC",
+    "st_nm": "PERAK",
+    "Num": 24,
+    "good_branch_score": 55.10787330801557
+  },
+  {
+    "acct_opng_brnch_id": 3426848,
+    "brnch_nm": "IBS KEPONG",
+    "st_nm": "SELANGOR",
+    "Num": 810,
+    "good_branch_score": 55.10236166276891
+  },
+  {
+    "acct_opng_brnch_id": 3426553,
+    "brnch_nm": "IBS MERGONG",
+    "st_nm": "KEDAH",
+    "Num": 3936,
+    "good_branch_score": 55.07430838268109
+  },
+  {
+    "acct_opng_brnch_id": 3426305,
+    "brnch_nm": "WISMA SATOK",
+    "st_nm": "SARAWAK",
+    "Num": 791,
+    "good_branch_score": 55.06324149361566
+  },
+  {
+    "acct_opng_brnch_id": 3426303,
+    "brnch_nm": "KAPIT",
+    "st_nm": "SARAWAK",
+    "Num": 218,
+    "good_branch_score": 55.03908528672961
+  },
+  {
+    "acct_opng_brnch_id": 3426128,
+    "brnch_nm": "PALOH SC",
+    "st_nm": "JOHOR",
+    "Num": 223,
+    "good_branch_score": 54.9100334911821
+  },
+  {
+    "acct_opng_brnch_id": 3426142,
+    "brnch_nm": "SETIA TROPIKA, JB",
+    "st_nm": "JOHOR",
+    "Num": 3046,
+    "good_branch_score": 54.86713474231256
+  },
+  {
+    "acct_opng_brnch_id": 3426677,
+    "brnch_nm": "IBS BAGAN SERAI",
+    "st_nm": "PERAK",
+    "Num": 1069,
+    "good_branch_score": 54.786891826164876
+  },
+  {
+    "acct_opng_brnch_id": 3426536,
+    "brnch_nm": "IBS TMN NUSA BESTARI, SKUDAI",
+    "st_nm": "JOHOR",
+    "Num": 1877,
+    "good_branch_score": 54.74070088914071
+  },
+  {
+    "acct_opng_brnch_id": 3426625,
+    "brnch_nm": "IBS PENANG TIMES SQUARE",
+    "st_nm": "PENANG",
+    "Num": 1388,
+    "good_branch_score": 54.695950027773925
+  },
+  {
+    "acct_opng_brnch_id": 3426361,
+    "brnch_nm": "BANDAR BARU SELAYANG",
+    "st_nm": "SELANGOR",
+    "Num": 1320,
+    "good_branch_score": 54.64222788366528
+  },
+  {
+    "acct_opng_brnch_id": 3426726,
+    "brnch_nm": "IBS KAPIT",
+    "st_nm": "SARAWAK",
+    "Num": 502,
+    "good_branch_score": 54.638295635923654
+  },
+  {
+    "acct_opng_brnch_id": 3426515,
+    "brnch_nm": "IBS TMN PELANGI, JB",
+    "st_nm": "JOHOR",
+    "Num": 1966,
+    "good_branch_score": 54.61179069336075
+  },
+  {
+    "acct_opng_brnch_id": 3426389,
+    "brnch_nm": "BANDAR BUKIT TINGGI 1",
+    "st_nm": "SELANGOR",
+    "Num": 3927,
+    "good_branch_score": 54.56490637592565
+  },
+  {
+    "acct_opng_brnch_id": 3426341,
+    "brnch_nm": "TMN PUTRA, AMPANG",
+    "st_nm": "SELANGOR",
+    "Num": 1414,
+    "good_branch_score": 54.51518423670158
+  },
+  {
+    "acct_opng_brnch_id": 3426417,
+    "brnch_nm": "JLN GOMBAK, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 761,
+    "good_branch_score": 54.47800932254846
+  },
+  {
+    "acct_opng_brnch_id": 3426261,
+    "brnch_nm": "KAMPONG KOH, SITIAWAN SC",
+    "st_nm": "PERAK",
+    "Num": 96,
+    "good_branch_score": 54.463650608935815
+  },
+  {
+    "acct_opng_brnch_id": 3426351,
+    "brnch_nm": "BANDAR BARU SALAK TINGGI SC",
+    "st_nm": "SELANGOR",
+    "Num": 301,
+    "good_branch_score": 54.3814985892689
+  },
+  {
+    "acct_opng_brnch_id": 3426180,
+    "brnch_nm": "BAHAU",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 516,
+    "good_branch_score": 54.33924198120796
+  },
+  {
+    "acct_opng_brnch_id": 3426176,
+    "brnch_nm": "AYER KEROH",
+    "st_nm": "MELAKA",
+    "Num": 871,
+    "good_branch_score": 54.303116223733866
+  },
+  {
+    "acct_opng_brnch_id": 3426352,
+    "brnch_nm": "CHERAS SELATAN",
+    "st_nm": "SELANGOR",
+    "Num": 2308,
+    "good_branch_score": 54.29662943317869
+  },
+  {
+    "acct_opng_brnch_id": 3426315,
+    "brnch_nm": "TUDAN",
+    "st_nm": "SARAWAK",
+    "Num": 1290,
+    "good_branch_score": 54.29171315613354
+  },
+  {
+    "acct_opng_brnch_id": 3426747,
+    "brnch_nm": "IBS PORT KLANG",
+    "st_nm": "SELANGOR",
+    "Num": 351,
+    "good_branch_score": 54.258177514746905
+  },
+  {
+    "acct_opng_brnch_id": 3426557,
+    "brnch_nm": "IBS CENANG MALL, LANGKAWI SC",
+    "st_nm": "KEDAH",
+    "Num": 382,
+    "good_branch_score": 54.229694155467094
+  },
+  {
+    "acct_opng_brnch_id": 3426377,
+    "brnch_nm": "PUCHONG PRIMA",
+    "st_nm": "SELANGOR",
+    "Num": 2372,
+    "good_branch_score": 54.22260554122242
+  },
+  {
+    "acct_opng_brnch_id": 3426247,
+    "brnch_nm": "PASIR PUTIH",
+    "st_nm": "PERAK",
+    "Num": 1880,
+    "good_branch_score": 54.22053517454948
+  },
+  {
+    "acct_opng_brnch_id": 3426155,
+    "brnch_nm": "SIMPANG KUALA",
+    "st_nm": "KEDAH",
+    "Num": 242,
+    "good_branch_score": 54.20196888308821
+  },
+  {
+    "acct_opng_brnch_id": 3426660,
+    "brnch_nm": "IBS TELUK INTAN",
+    "st_nm": "PERAK",
+    "Num": 1445,
+    "good_branch_score": 54.18249496704528
+  },
+  {
+    "acct_opng_brnch_id": 3426638,
+    "brnch_nm": "IBS SIMPANG AMPAT",
+    "st_nm": "PENANG",
+    "Num": 2401,
+    "good_branch_score": 54.17835838770287
+  },
+  {
+    "acct_opng_brnch_id": 3426550,
+    "brnch_nm": "IBS JITRA",
+    "st_nm": "KEDAH",
+    "Num": 2763,
+    "good_branch_score": 54.169226023846065
+  },
+  {
+    "acct_opng_brnch_id": 3426150,
+    "brnch_nm": "PULAU LANGKAWI",
+    "st_nm": "KEDAH",
+    "Num": 348,
+    "good_branch_score": 54.111381362598635
+  },
+  {
+    "acct_opng_brnch_id": 3426680,
+    "brnch_nm": "IBS STATION 18, IPOH",
+    "st_nm": "PERAK",
+    "Num": 1779,
+    "good_branch_score": 54.10536688707497
+  },
+  {
+    "acct_opng_brnch_id": 3426306,
+    "brnch_nm": "SARIKEI",
+    "st_nm": "SARAWAK",
+    "Num": 122,
+    "good_branch_score": 54.098843438612356
+  },
+  {
+    "acct_opng_brnch_id": 3426374,
+    "brnch_nm": "SUNGAI BULOH",
+    "st_nm": "SELANGOR",
+    "Num": 2253,
+    "good_branch_score": 54.057929834792915
+  },
+  {
+    "acct_opng_brnch_id": 3426725,
+    "brnch_nm": "IBS JLN PENDING, KUCHING",
+    "st_nm": "SARAWAK",
+    "Num": 1044,
+    "good_branch_score": 54.049376033226174
+  },
+  {
+    "acct_opng_brnch_id": 3426343,
+    "brnch_nm": "BANDAR BARU BANGI",
+    "st_nm": "SELANGOR",
+    "Num": 360,
+    "good_branch_score": 54.04817048687811
+  },
+  {
+    "acct_opng_brnch_id": 3426334,
+    "brnch_nm": "BANDAR BARU AMPANG",
+    "st_nm": "SELANGOR",
+    "Num": 102,
+    "good_branch_score": 54.02374295664693
+  },
+  {
+    "acct_opng_brnch_id": 3426672,
+    "brnch_nm": "IBS PANTAI REMIS",
+    "st_nm": "PERAK",
+    "Num": 1380,
+    "good_branch_score": 54.011286164700465
+  },
+  {
+    "acct_opng_brnch_id": 3426220,
+    "brnch_nm": "NIBONG TEBAL",
+    "st_nm": "PENANG",
+    "Num": 394,
+    "good_branch_score": 53.97530242706972
+  },
+  {
+    "acct_opng_brnch_id": 3426558,
+    "brnch_nm": "IBS SIMPANG KUALA",
+    "st_nm": "KEDAH",
+    "Num": 2461,
+    "good_branch_score": 53.9695340966785
+  },
+  {
+    "acct_opng_brnch_id": 426982,
+    "brnch_nm": "SITIAWAN",
+    "st_nm": "PERAK",
+    "Num": 646,
+    "good_branch_score": 53.962337907296515
+  },
+  {
+    "acct_opng_brnch_id": 3426627,
+    "brnch_nm": "IBS BANDAR PERDA, BKT MERTAJAM",
+    "st_nm": "PENANG",
+    "Num": 1990,
+    "good_branch_score": 53.95596525477134
+  },
+  {
+    "acct_opng_brnch_id": 3426116,
+    "brnch_nm": "TMN DAYA, JB",
+    "st_nm": "JOHOR",
+    "Num": 2223,
+    "good_branch_score": 53.90684855809785
+  },
+  {
+    "acct_opng_brnch_id": 3426491,
+    "brnch_nm": "IBS BATU PAHAT",
+    "st_nm": "JOHOR",
+    "Num": 1226,
+    "good_branch_score": 53.9007379204171
+  },
+  {
+    "acct_opng_brnch_id": 426983,
+    "brnch_nm": "GREENTOWN",
+    "st_nm": "PERAK",
+    "Num": 761,
+    "good_branch_score": 53.869201906083305
+  },
+  {
+    "acct_opng_brnch_id": 3426143,
+    "brnch_nm": "JOHOR PREMIUM OUTLETS SC",
+    "st_nm": "JOHOR",
+    "Num": 18,
+    "good_branch_score": 53.85222839954444
+  },
+  {
+    "acct_opng_brnch_id": 426974,
+    "brnch_nm": "TRIANG",
+    "st_nm": "PAHANG",
+    "Num": 850,
+    "good_branch_score": 53.793749207798655
+  },
+  {
+    "acct_opng_brnch_id": 426980,
+    "brnch_nm": "TANJUNG MALIM",
+    "st_nm": "PERAK",
+    "Num": 138,
+    "good_branch_score": 53.78275005919383
+  },
+  {
+    "acct_opng_brnch_id": 3426522,
+    "brnch_nm": "IBS KELAPA SAWIT SC",
+    "st_nm": "JOHOR",
+    "Num": 482,
+    "good_branch_score": 53.75437406000865
+  },
+  {
+    "acct_opng_brnch_id": 3426668,
+    "brnch_nm": "IBS MENGLEMBU",
+    "st_nm": "PERAK",
+    "Num": 1402,
+    "good_branch_score": 53.754089157005886
+  },
+  {
+    "acct_opng_brnch_id": 3426881,
+    "brnch_nm": "IBS KEPONG PRIMA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 980,
+    "good_branch_score": 53.73771832724093
+  },
+  {
+    "acct_opng_brnch_id": 3426624,
+    "brnch_nm": "IBS PULAU TIKUS",
+    "st_nm": "PENANG",
+    "Num": 1672,
+    "good_branch_score": 53.729268750996816
+  },
+  {
+    "acct_opng_brnch_id": 3426181,
+    "brnch_nm": "PORT DICKSON",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 103,
+    "good_branch_score": 53.728301659675836
+  },
+  {
+    "acct_opng_brnch_id": 3426105,
+    "brnch_nm": "PEKAN NENAS",
+    "st_nm": "JOHOR",
+    "Num": 499,
+    "good_branch_score": 53.72290954668919
+  },
+  {
+    "acct_opng_brnch_id": 3426687,
+    "brnch_nm": "IBS LANGKAP SC",
+    "st_nm": "PERAK",
+    "Num": 686,
+    "good_branch_score": 53.72053994232534
+  },
+  {
+    "acct_opng_brnch_id": 3426209,
+    "brnch_nm": "RAUB",
+    "st_nm": "PAHANG",
+    "Num": 258,
+    "good_branch_score": 53.68424028857489
+  },
+  {
+    "acct_opng_brnch_id": 3426445,
+    "brnch_nm": "DESA PANDAN",
+    "st_nm": "FED. TERRITORY",
+    "Num": 690,
+    "good_branch_score": 53.67786319309921
+  },
+  {
+    "acct_opng_brnch_id": 3426494,
+    "brnch_nm": "IBS KLUANG",
+    "st_nm": "JOHOR",
+    "Num": 4329,
+    "good_branch_score": 53.663097896362636
+  },
+  {
+    "acct_opng_brnch_id": 3426357,
+    "brnch_nm": "PRIMA AVENUE, CYBERJAYA SC",
+    "st_nm": "SELANGOR",
+    "Num": 410,
+    "good_branch_score": 53.65427804800517
+  },
+  {
+    "acct_opng_brnch_id": 3426503,
+    "brnch_nm": "IBS PEKAN NENAS",
+    "st_nm": "JOHOR",
+    "Num": 1279,
+    "good_branch_score": 53.63805067974166
+  },
+  {
+    "acct_opng_brnch_id": 3426758,
+    "brnch_nm": "IBS SELAYANG",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1628,
+    "good_branch_score": 53.614728552613585
+  },
+  {
+    "acct_opng_brnch_id": 3426761,
+    "brnch_nm": "IBS SUNGAI BESAR",
+    "st_nm": "SELANGOR",
+    "Num": 894,
+    "good_branch_score": 53.59705812824303
+  },
+  {
+    "acct_opng_brnch_id": 3426456,
+    "brnch_nm": "TMN CONNAUGHT, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2308,
+    "good_branch_score": 53.593049535527626
+  },
+  {
+    "acct_opng_brnch_id": 3426283,
+    "brnch_nm": "KENINGAU",
+    "st_nm": "SABAH",
+    "Num": 252,
+    "good_branch_score": 53.59027212577155
+  },
+  {
+    "acct_opng_brnch_id": 3426097,
+    "brnch_nm": "KOTA TINGGI",
+    "st_nm": "JOHOR",
+    "Num": 284,
+    "good_branch_score": 53.58578177517988
+  },
+  {
+    "acct_opng_brnch_id": 3426549,
+    "brnch_nm": "IBS SUNGAI PETANI",
+    "st_nm": "KEDAH",
+    "Num": 3169,
+    "good_branch_score": 53.54549765918662
+  },
+  {
+    "acct_opng_brnch_id": 3426335,
+    "brnch_nm": "TMN SETIAWANGSA, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 980,
+    "good_branch_score": 53.520726437219494
+  },
+  {
+    "acct_opng_brnch_id": 3426211,
+    "brnch_nm": "PENANG MAIN",
+    "st_nm": "PENANG",
+    "Num": 1573,
+    "good_branch_score": 53.47738551578703
+  },
+  {
+    "acct_opng_brnch_id": 3426584,
+    "brnch_nm": "IBS SEREMBAN",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 2199,
+    "good_branch_score": 53.47135152582984
+  },
+  {
+    "acct_opng_brnch_id": 3426428,
+    "brnch_nm": "BATU CANTONMENT",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1520,
+    "good_branch_score": 53.46805764932435
+  },
+  {
+    "acct_opng_brnch_id": 3426518,
+    "brnch_nm": "IBS TMN UNIVERSITI, SKUDAI",
+    "st_nm": "JOHOR",
+    "Num": 4954,
+    "good_branch_score": 53.41276375157719
+  },
+  {
+    "acct_opng_brnch_id": 3426551,
+    "brnch_nm": "IBS PULAU LANGKAWI",
+    "st_nm": "KEDAH",
+    "Num": 2193,
+    "good_branch_score": 53.36944487434373
+  },
+  {
+    "acct_opng_brnch_id": 426994,
+    "brnch_nm": "MENARA KLANG",
+    "st_nm": "SELANGOR",
+    "Num": 2116,
+    "good_branch_score": 53.36628364540427
+  },
+  {
+    "acct_opng_brnch_id": 3426455,
+    "brnch_nm": "BANDAR SRI PERMAISURI",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1443,
+    "good_branch_score": 53.35201592372435
+  },
+  {
+    "acct_opng_brnch_id": 3426330,
+    "brnch_nm": "KUALA SELANGOR",
+    "st_nm": "SELANGOR",
+    "Num": 404,
+    "good_branch_score": 53.32695598292546
+  },
+  {
+    "acct_opng_brnch_id": 3426191,
+    "brnch_nm": "SEREMBAN 2",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 2694,
+    "good_branch_score": 53.29597849073328
+  },
+  {
+    "acct_opng_brnch_id": 3426657,
+    "brnch_nm": "IBS PASIR PUTIH",
+    "st_nm": "PERAK",
+    "Num": 1560,
+    "good_branch_score": 53.29454679655275
+  },
+  {
+    "acct_opng_brnch_id": 3426096,
+    "brnch_nm": "KLUANG",
+    "st_nm": "JOHOR",
+    "Num": 678,
+    "good_branch_score": 53.29326580653052
+  },
+  {
+    "acct_opng_brnch_id": 3426189,
+    "brnch_nm": "RAHANG",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 928,
+    "good_branch_score": 53.27963695388987
+  },
+  {
+    "acct_opng_brnch_id": 3426424,
+    "brnch_nm": "WISMA SIME DARBY",
+    "st_nm": "FED. TERRITORY",
+    "Num": 576,
+    "good_branch_score": 53.25340869442584
+  },
+  {
+    "acct_opng_brnch_id": 3426865,
+    "brnch_nm": "IBS PANDAN INDAH",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2313,
+    "good_branch_score": 53.25120488557809
+  },
+  {
+    "acct_opng_brnch_id": 3426472,
+    "brnch_nm": "SHAFTSBURY, CYBERJAYA",
+    "st_nm": "SELANGOR",
+    "Num": 747,
+    "good_branch_score": 53.23017943196066
+  },
+  {
+    "acct_opng_brnch_id": 3426681,
+    "brnch_nm": "IBS BERCHAM",
+    "st_nm": "PERAK",
+    "Num": 2517,
+    "good_branch_score": 53.1130676639849
+  },
+  {
+    "acct_opng_brnch_id": 3426673,
+    "brnch_nm": "IBS KAMPONG KOH, SITIAWAN SC",
+    "st_nm": "PERAK",
+    "Num": 408,
+    "good_branch_score": 53.05838699598045
+  },
+  {
+    "acct_opng_brnch_id": 3426371,
+    "brnch_nm": "DAMANSARA JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 402,
+    "good_branch_score": 53.04802908783243
+  },
+  {
+    "acct_opng_brnch_id": 3426889,
+    "brnch_nm": "IBS TMN CONNAUGHT, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 912,
+    "good_branch_score": 53.04747007435219
+  },
+  {
+    "acct_opng_brnch_id": 3426628,
+    "brnch_nm": "IBS NIBONG TEBAL",
+    "st_nm": "PENANG",
+    "Num": 1566,
+    "good_branch_score": 53.039517174752746
+  },
+  {
+    "acct_opng_brnch_id": 3426286,
+    "brnch_nm": "KARAMUNSING",
+    "st_nm": "SABAH",
+    "Num": 4176,
+    "good_branch_score": 53.0267119863551
+  },
+  {
+    "acct_opng_brnch_id": 3426832,
+    "brnch_nm": "IBS JLN PUDU, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 614,
+    "good_branch_score": 53.0213099321065
+  },
+  {
+    "acct_opng_brnch_id": 426965,
+    "brnch_nm": "TMN JOHOR JAYA, JB",
+    "st_nm": "JOHOR",
+    "Num": 938,
+    "good_branch_score": 53.01305778139871
+  },
+  {
+    "acct_opng_brnch_id": 3426500,
+    "brnch_nm": "IBS JLN TEBRAU, JB",
+    "st_nm": "JOHOR",
+    "Num": 1633,
+    "good_branch_score": 53.00536279760032
+  },
+  {
+    "acct_opng_brnch_id": 3426547,
+    "brnch_nm": "IBS KULIM",
+    "st_nm": "KEDAH",
+    "Num": 1348,
+    "good_branch_score": 52.962250046627524
+  },
+  {
+    "acct_opng_brnch_id": 3426426,
+    "brnch_nm": "JLN TUN H.S. LEE, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 316,
+    "good_branch_score": 52.929359848002264
+  },
+  {
+    "acct_opng_brnch_id": 3426208,
+    "brnch_nm": "PEKAN",
+    "st_nm": "PAHANG",
+    "Num": 170,
+    "good_branch_score": 52.91765378159264
+  },
+  {
+    "acct_opng_brnch_id": 3426241,
+    "brnch_nm": "BERTAM",
+    "st_nm": "PENANG",
+    "Num": 177,
+    "good_branch_score": 52.90926082453363
+  },
+  {
+    "acct_opng_brnch_id": 3426221,
+    "brnch_nm": "BUTTERWORTH",
+    "st_nm": "PENANG",
+    "Num": 901,
+    "good_branch_score": 52.867658993617546
+  },
+  {
+    "acct_opng_brnch_id": 3426329,
+    "brnch_nm": "SEKINCHAN",
+    "st_nm": "SELANGOR",
+    "Num": 505,
+    "good_branch_score": 52.849601338000475
+  },
+  {
+    "acct_opng_brnch_id": 3426693,
+    "brnch_nm": "IBS KUALA PERLIS SC",
+    "st_nm": "PERLIS",
+    "Num": 778,
+    "good_branch_score": 52.84040469346247
+  },
+  {
+    "acct_opng_brnch_id": 426992,
+    "brnch_nm": "KAJANG",
+    "st_nm": "SELANGOR",
+    "Num": 1716,
+    "good_branch_score": 52.83931561672265
+  },
+  {
+    "acct_opng_brnch_id": 3426185,
+    "brnch_nm": "MANTIN",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 722,
+    "good_branch_score": 52.83857675324294
+  },
+  {
+    "acct_opng_brnch_id": 3426896,
+    "brnch_nm": "IBS ALAM DAMAI",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1714,
+    "good_branch_score": 52.812878380922754
+  },
+  {
+    "acct_opng_brnch_id": 3426718,
+    "brnch_nm": "IBS MIRI",
+    "st_nm": "SARAWAK",
+    "Num": 2048,
+    "good_branch_score": 52.808620176810265
+  },
+  {
+    "acct_opng_brnch_id": 3426104,
+    "brnch_nm": "MASAI",
+    "st_nm": "JOHOR",
+    "Num": 1315,
+    "good_branch_score": 52.77793585734019
+  },
+  {
+    "acct_opng_brnch_id": 3426259,
+    "brnch_nm": "IPOH GARDEN",
+    "st_nm": "PERAK",
+    "Num": 1288,
+    "good_branch_score": 52.77049659280428
+  },
+  {
+    "acct_opng_brnch_id": 3426867,
+    "brnch_nm": "IBS TMN MALURI, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2497,
+    "good_branch_score": 52.758133699649
+  },
+  {
+    "acct_opng_brnch_id": 3426734,
+    "brnch_nm": "IBS BOULEVARD CTR, MIRI",
+    "st_nm": "SARAWAK",
+    "Num": 849,
+    "good_branch_score": 52.7262979227443
+  },
+  {
+    "acct_opng_brnch_id": 3426094,
+    "brnch_nm": "MUAR",
+    "st_nm": "JOHOR",
+    "Num": 697,
+    "good_branch_score": 52.72499123158059
+  },
+  {
+    "acct_opng_brnch_id": 3426644,
+    "brnch_nm": "IBS ALMA",
+    "st_nm": "PENANG",
+    "Num": 1625,
+    "good_branch_score": 52.69076816918103
+  },
+  {
+    "acct_opng_brnch_id": 3426653,
+    "brnch_nm": "IBS WISMA JELUTONG",
+    "st_nm": "PENANG",
+    "Num": 2341,
+    "good_branch_score": 52.65452203457692
+  },
+  {
+    "acct_opng_brnch_id": 3426233,
+    "brnch_nm": "JURU",
+    "st_nm": "PENANG",
+    "Num": 1747,
+    "good_branch_score": 52.5946096427888
+  },
+  {
+    "acct_opng_brnch_id": 3426325,
+    "brnch_nm": "SUBANG PERDANA",
+    "st_nm": "SELANGOR",
+    "Num": 1099,
+    "good_branch_score": 52.587503747338985
+  },
+  {
+    "acct_opng_brnch_id": 3426546,
+    "brnch_nm": "IBS ALOR SETAR",
+    "st_nm": "KEDAH",
+    "Num": 3866,
+    "good_branch_score": 52.555738492267
+  },
+  {
+    "acct_opng_brnch_id": 3426280,
+    "brnch_nm": "LAHAD DATU",
+    "st_nm": "SABAH",
+    "Num": 806,
+    "good_branch_score": 52.5543458850701
+  },
+  {
+    "acct_opng_brnch_id": 426968,
+    "brnch_nm": "MERGONG",
+    "st_nm": "KEDAH",
+    "Num": 329,
+    "good_branch_score": 52.54942960079329
+  },
+  {
+    "acct_opng_brnch_id": 3426643,
+    "brnch_nm": "IBS JURU",
+    "st_nm": "PENANG",
+    "Num": 1522,
+    "good_branch_score": 52.53536273982561
+  },
+  {
+    "acct_opng_brnch_id": 3426561,
+    "brnch_nm": "IBS KOTA BHARU",
+    "st_nm": "KELANTAN",
+    "Num": 4565,
+    "good_branch_score": 52.53052815294853
+  },
+  {
+    "acct_opng_brnch_id": 3426772,
+    "brnch_nm": "IBS BANDAR SUNWAY",
+    "st_nm": "SELANGOR",
+    "Num": 697,
+    "good_branch_score": 52.51544390679976
+  },
+  {
+    "acct_opng_brnch_id": 3426297,
+    "brnch_nm": "JLN TAR, KUCHING",
+    "st_nm": "SARAWAK",
+    "Num": 669,
+    "good_branch_score": 52.51183545835863
+  },
+  {
+    "acct_opng_brnch_id": 3426358,
+    "brnch_nm": "PANDAMARAN",
+    "st_nm": "SELANGOR",
+    "Num": 3518,
+    "good_branch_score": 52.497566507384605
+  },
+  {
+    "acct_opng_brnch_id": 3426506,
+    "brnch_nm": "IBS FELDA AIR TAWAR SC",
+    "st_nm": "JOHOR",
+    "Num": 393,
+    "good_branch_score": 52.45653627911155
+  },
+  {
+    "acct_opng_brnch_id": 3426323,
+    "brnch_nm": "KAPAR",
+    "st_nm": "SELANGOR",
+    "Num": 256,
+    "good_branch_score": 52.44002904796484
+  },
+  {
+    "acct_opng_brnch_id": 3426815,
+    "brnch_nm": "IBS SUNWAY PYRAMID SC",
+    "st_nm": "SELANGOR",
+    "Num": 444,
+    "good_branch_score": 52.43488761770975
+  },
+  {
+    "acct_opng_brnch_id": 3426621,
+    "brnch_nm": "IBS JELUTONG",
+    "st_nm": "PENANG",
+    "Num": 2039,
+    "good_branch_score": 52.43457912044739
+  },
+  {
+    "acct_opng_brnch_id": 3426575,
+    "brnch_nm": "IBS ALOR GAJAH",
+    "st_nm": "MELAKA",
+    "Num": 1203,
+    "good_branch_score": 52.432864805346675
+  },
+  {
+    "acct_opng_brnch_id": 3426670,
+    "brnch_nm": "IBS LUMUT",
+    "st_nm": "PERAK",
+    "Num": 1284,
+    "good_branch_score": 52.41067605555347
+  },
+  {
+    "acct_opng_brnch_id": 3426651,
+    "brnch_nm": "IBS BERTAM",
+    "st_nm": "PENANG",
+    "Num": 2270,
+    "good_branch_score": 52.40370441461556
+  },
+  {
+    "acct_opng_brnch_id": 3426663,
+    "brnch_nm": "IBS KUALA KANGSAR",
+    "st_nm": "PERAK",
+    "Num": 2238,
+    "good_branch_score": 52.355573541563736
+  },
+  {
+    "acct_opng_brnch_id": 3426380,
+    "brnch_nm": "EQUINE PARK",
+    "st_nm": "SELANGOR",
+    "Num": 1341,
+    "good_branch_score": 52.34734235380605
+  },
+  {
+    "acct_opng_brnch_id": 3426527,
+    "brnch_nm": "IBS JLN SULAIMAN, MUAR",
+    "st_nm": "JOHOR",
+    "Num": 2422,
+    "good_branch_score": 52.285676438718056
+  },
+  {
+    "acct_opng_brnch_id": 3426379,
+    "brnch_nm": "DAMANSARA DAMAI",
+    "st_nm": "SELANGOR",
+    "Num": 560,
+    "good_branch_score": 52.28222122972022
+  },
+  {
+    "acct_opng_brnch_id": 3426509,
+    "brnch_nm": "IBS TMN JOHOR JAYA, JB",
+    "st_nm": "JOHOR",
+    "Num": 2600,
+    "good_branch_score": 52.27508981782927
+  },
+  {
+    "acct_opng_brnch_id": 3426742,
+    "brnch_nm": "IBS TABUAN JAYA",
+    "st_nm": "SARAWAK",
+    "Num": 2839,
+    "good_branch_score": 52.26876952711789
+  },
+  {
+    "acct_opng_brnch_id": 3426791,
+    "brnch_nm": "IBS SEMENYIH",
+    "st_nm": "SELANGOR",
+    "Num": 2473,
+    "good_branch_score": 52.26052379236972
+  },
+  {
+    "acct_opng_brnch_id": 3426544,
+    "brnch_nm": "IBS JOHOR PREMIUM OUTLETS SC",
+    "st_nm": "JOHOR",
+    "Num": 173,
+    "good_branch_score": 52.17835105590338
+  },
+  {
+    "acct_opng_brnch_id": 3426759,
+    "brnch_nm": "IBS BANDAR BARU AMPANG",
+    "st_nm": "SELANGOR",
+    "Num": 3229,
+    "good_branch_score": 52.162293894711524
+  },
+  {
+    "acct_opng_brnch_id": 3426411,
+    "brnch_nm": "RIVERCITY, JLN IPOH",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2059,
+    "good_branch_score": 52.16045561388959
+  },
+  {
+    "acct_opng_brnch_id": 3426532,
+    "brnch_nm": "IBS BUKIT PASIR, BP",
+    "st_nm": "JOHOR",
+    "Num": 2803,
+    "good_branch_score": 52.12609760400992
+  },
+  {
+    "acct_opng_brnch_id": 3426784,
+    "brnch_nm": "IBS PANDAMARAN",
+    "st_nm": "SELANGOR",
+    "Num": 1458,
+    "good_branch_score": 52.12158568494109
+  },
+  {
+    "acct_opng_brnch_id": 3426907,
+    "brnch_nm": "IBS MIB I-CITY, SHAH ALAM SC",
+    "st_nm": "SELANGOR",
+    "Num": 1957,
+    "good_branch_score": 52.11091491138393
+  },
+  {
+    "acct_opng_brnch_id": 3426692,
+    "brnch_nm": "IBS KANGAR",
+    "st_nm": "PERLIS",
+    "Num": 2300,
+    "good_branch_score": 52.1085987591016
+  },
+  {
+    "acct_opng_brnch_id": 3426774,
+    "brnch_nm": "IBS PUCHONG JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 308,
+    "good_branch_score": 52.08814299071325
+  },
+  {
+    "acct_opng_brnch_id": 3426353,
+    "brnch_nm": "BANDAR BARU KLANG",
+    "st_nm": "SELANGOR",
+    "Num": 1990,
+    "good_branch_score": 52.086997663347724
+  },
+  {
+    "acct_opng_brnch_id": 3426746,
+    "brnch_nm": "IBS TANJONG KARANG",
+    "st_nm": "SELANGOR",
+    "Num": 1094,
+    "good_branch_score": 52.084262143940734
+  },
+  {
+    "acct_opng_brnch_id": 3426093,
+    "brnch_nm": "BATU PAHAT",
+    "st_nm": "JOHOR",
+    "Num": 361,
+    "good_branch_score": 52.05541805526839
+  },
+  {
+    "acct_opng_brnch_id": 3426861,
+    "brnch_nm": "IBS BATU CANTONMENT",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1224,
+    "good_branch_score": 52.05281311152415
+  },
+  {
+    "acct_opng_brnch_id": 3426370,
+    "brnch_nm": "AMPANG POINT",
+    "st_nm": "SELANGOR",
+    "Num": 1299,
+    "good_branch_score": 52.04927493725574
+  },
+  {
+    "acct_opng_brnch_id": 3426615,
+    "brnch_nm": "IBS TMN TAS, KUANTAN",
+    "st_nm": "PAHANG",
+    "Num": 3300,
+    "good_branch_score": 52.039321849259295
+  },
+  {
+    "acct_opng_brnch_id": 3426148,
+    "brnch_nm": "SUNGAI PETANI",
+    "st_nm": "KEDAH",
+    "Num": 911,
+    "good_branch_score": 52.03091138641469
+  },
+  {
+    "acct_opng_brnch_id": 3426118,
+    "brnch_nm": "TMN UNIVERSITI, SKUDAI",
+    "st_nm": "JOHOR",
+    "Num": 270,
+    "good_branch_score": 52.0300907777247
+  },
+  {
+    "acct_opng_brnch_id": 3426831,
+    "brnch_nm": "IBS WISMA HANGSAM",
+    "st_nm": "FED. TERRITORY",
+    "Num": 526,
+    "good_branch_score": 52.01854337551638
+  },
+  {
+    "acct_opng_brnch_id": 3426900,
+    "brnch_nm": "IBS KOMPLEKS MAHKAMAH SC",
+    "st_nm": "FED. TERRITORY",
+    "Num": 42,
+    "good_branch_score": 52.015738282598605
+  },
+  {
+    "acct_opng_brnch_id": 3426331,
+    "brnch_nm": "TMN SRI SERDANG, S'GOR",
+    "st_nm": "SELANGOR",
+    "Num": 1457,
+    "good_branch_score": 52.00773066847283
+  },
+  {
+    "acct_opng_brnch_id": 3426682,
+    "brnch_nm": "IBS SITIAWAN",
+    "st_nm": "PERAK",
+    "Num": 3787,
+    "good_branch_score": 52.0062881655273
+  },
+  {
+    "acct_opng_brnch_id": 427002,
+    "brnch_nm": "KEPONG PRIMA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3281,
+    "good_branch_score": 51.9952978510881
+  },
+  {
+    "acct_opng_brnch_id": 3426149,
+    "brnch_nm": "JITRA",
+    "st_nm": "KEDAH",
+    "Num": 237,
+    "good_branch_score": 51.98448233014677
+  },
+  {
+    "acct_opng_brnch_id": 3426562,
+    "brnch_nm": "IBS KUALA KRAI",
+    "st_nm": "KELANTAN",
+    "Num": 1988,
+    "good_branch_score": 51.979578067893655
+  },
+  {
+    "acct_opng_brnch_id": 3426359,
+    "brnch_nm": "TTDI JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 413,
+    "good_branch_score": 51.974272015143036
+  },
+  {
+    "acct_opng_brnch_id": 3426793,
+    "brnch_nm": "IBS SELAYANG JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 1752,
+    "good_branch_score": 51.96289508791531
+  },
+  {
+    "acct_opng_brnch_id": 3426133,
+    "brnch_nm": "JLN GENUANG, SEGAMAT",
+    "st_nm": "JOHOR",
+    "Num": 272,
+    "good_branch_score": 51.93882516458528
+  },
+  {
+    "acct_opng_brnch_id": 3426372,
+    "brnch_nm": "PUSAT BANDAR PUCHONG",
+    "st_nm": "SELANGOR",
+    "Num": 4222,
+    "good_branch_score": 51.91454911560116
+  },
+  {
+    "acct_opng_brnch_id": 3426800,
+    "brnch_nm": "IBS MIB SEKSYEN 9, SHAH ALAM",
+    "st_nm": "SELANGOR",
+    "Num": 4242,
+    "good_branch_score": 51.88568368280591
+  },
+  {
+    "acct_opng_brnch_id": 3426517,
+    "brnch_nm": "IBS BANDAR BARU PERMAS JAYA",
+    "st_nm": "JOHOR",
+    "Num": 2700,
+    "good_branch_score": 51.880127105429494
+  },
+  {
+    "acct_opng_brnch_id": 3426219,
+    "brnch_nm": "BANDAR PERDA, BKT MERTAJAM",
+    "st_nm": "PENANG",
+    "Num": 2754,
+    "good_branch_score": 51.85806106028295
+  },
+  {
+    "acct_opng_brnch_id": 3426777,
+    "brnch_nm": "IBS BANDAR BARU SALAK TINGGI S",
+    "st_nm": "SELANGOR",
+    "Num": 1082,
+    "good_branch_score": 51.84387824344849
+  },
+  {
+    "acct_opng_brnch_id": 3426781,
+    "brnch_nm": "IBS KAJANG PRIMA",
+    "st_nm": "SELANGOR",
+    "Num": 4383,
+    "good_branch_score": 51.83601875612554
+  },
+  {
+    "acct_opng_brnch_id": 3426732,
+    "brnch_nm": "IBS BAU",
+    "st_nm": "SARAWAK",
+    "Num": 611,
+    "good_branch_score": 51.81652294802451
+  },
+  {
+    "acct_opng_brnch_id": 3426649,
+    "brnch_nm": "IBS RELAU",
+    "st_nm": "PENANG",
+    "Num": 1400,
+    "good_branch_score": 51.808748577350684
+  },
+  {
+    "acct_opng_brnch_id": 3426425,
+    "brnch_nm": "JLN 222, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 1057,
+    "good_branch_score": 51.80094708552826
+  },
+  {
+    "acct_opng_brnch_id": 3426454,
+    "brnch_nm": "TMN CHERAS MAKMUR, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2329,
+    "good_branch_score": 51.79524601550607
+  },
+  {
+    "acct_opng_brnch_id": 3426433,
+    "brnch_nm": "PANDAN INDAH",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2885,
+    "good_branch_score": 51.78735382642567
+  },
+  {
+    "acct_opng_brnch_id": 3426824,
+    "brnch_nm": "IBS JERTEH",
+    "st_nm": "TERENGGANU",
+    "Num": 2685,
+    "good_branch_score": 51.77971333736116
+  },
+  {
+    "acct_opng_brnch_id": 3426744,
+    "brnch_nm": "IBS RAWANG",
+    "st_nm": "SELANGOR",
+    "Num": 2116,
+    "good_branch_score": 51.77382861619752
+  },
+  {
+    "acct_opng_brnch_id": 3426174,
+    "brnch_nm": "TMN MELAKA RAYA, MELAKA",
+    "st_nm": "MELAKA",
+    "Num": 1445,
+    "good_branch_score": 51.765065585016806
+  },
+  {
+    "acct_opng_brnch_id": 3426239,
+    "brnch_nm": "RELAU",
+    "st_nm": "PENANG",
+    "Num": 239,
+    "good_branch_score": 51.74705754778655
+  },
+  {
+    "acct_opng_brnch_id": 3426246,
+    "brnch_nm": "IPOH MAIN, JSIS",
+    "st_nm": "PERAK",
+    "Num": 1585,
+    "good_branch_score": 51.65519670973524
+  },
+  {
+    "acct_opng_brnch_id": 3426392,
+    "brnch_nm": "SERI KEMBANGAN",
+    "st_nm": "SELANGOR",
+    "Num": 2379,
+    "good_branch_score": 51.63759466699585
+  },
+  {
+    "acct_opng_brnch_id": 3426801,
+    "brnch_nm": "IBS SUNGAI BULOH",
+    "st_nm": "SELANGOR",
+    "Num": 5206,
+    "good_branch_score": 51.60951914628119
+  },
+  {
+    "acct_opng_brnch_id": 3426789,
+    "brnch_nm": "IBS BANDAR BARU SELAYANG",
+    "st_nm": "SELANGOR",
+    "Num": 2680,
+    "good_branch_score": 51.585651249015555
+  },
+  {
+    "acct_opng_brnch_id": 3426226,
+    "brnch_nm": "JLN ONG YI HOW, BUTTERWORTH",
+    "st_nm": "PENANG",
+    "Num": 1078,
+    "good_branch_score": 51.56999564894976
+  },
+  {
+    "acct_opng_brnch_id": 3426326,
+    "brnch_nm": "SABAK BERNAM",
+    "st_nm": "SELANGOR",
+    "Num": 136,
+    "good_branch_score": 51.56549482731939
+  },
+  {
+    "acct_opng_brnch_id": 3426429,
+    "brnch_nm": "MEDAN TUANKU",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2042,
+    "good_branch_score": 51.56332770713766
+  },
+  {
+    "acct_opng_brnch_id": 3426447,
+    "brnch_nm": "SEGAMBUT",
+    "st_nm": "FED. TERRITORY",
+    "Num": 724,
+    "good_branch_score": 51.56273007009484
+  },
+  {
+    "acct_opng_brnch_id": 3426559,
+    "brnch_nm": "IBS LAGENDA HEIGHTS, SG PETANI",
+    "st_nm": "KEDAH",
+    "Num": 3532,
+    "good_branch_score": 51.54844593921069
+  },
+  {
+    "acct_opng_brnch_id": 3426592,
+    "brnch_nm": "IBS GEMENCHEH SC",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 971,
+    "good_branch_score": 51.54586988404911
+  },
+  {
+    "acct_opng_brnch_id": 3426577,
+    "brnch_nm": "IBS TMN MALIM JAYA, MELAKA",
+    "st_nm": "MELAKA",
+    "Num": 5032,
+    "good_branch_score": 51.53116673244887
+  },
+  {
+    "acct_opng_brnch_id": 3426107,
+    "brnch_nm": "SUNGAI RENGIT",
+    "st_nm": "JOHOR",
+    "Num": 219,
+    "good_branch_score": 51.51269657972118
+  },
+  {
+    "acct_opng_brnch_id": 3426757,
+    "brnch_nm": "IBS TMN SRI SERDANG, S'GOR",
+    "st_nm": "SELANGOR",
+    "Num": 3593,
+    "good_branch_score": 51.499686043135505
+  },
+  {
+    "acct_opng_brnch_id": 3426492,
+    "brnch_nm": "IBS MUAR",
+    "st_nm": "JOHOR",
+    "Num": 3910,
+    "good_branch_score": 51.49403036208454
+  },
+  {
+    "acct_opng_brnch_id": 3426409,
+    "brnch_nm": "BANGSAR BARU",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3397,
+    "good_branch_score": 51.47099364575059
+  },
+  {
+    "acct_opng_brnch_id": 3426748,
+    "brnch_nm": "IBS BANTING",
+    "st_nm": "SELANGOR",
+    "Num": 3242,
+    "good_branch_score": 51.46839665717987
+  },
+  {
+    "acct_opng_brnch_id": 3426520,
+    "brnch_nm": "IBS ULU TIRAM",
+    "st_nm": "JOHOR",
+    "Num": 1793,
+    "good_branch_score": 51.46752076659207
+  },
+  {
+    "acct_opng_brnch_id": 3426612,
+    "brnch_nm": "IBS JLN BESERAH, KUANTAN",
+    "st_nm": "PAHANG",
+    "Num": 4115,
+    "good_branch_score": 51.46680592497193
+  },
+  {
+    "acct_opng_brnch_id": 3426574,
+    "brnch_nm": "IBS JASIN",
+    "st_nm": "MELAKA",
+    "Num": 1186,
+    "good_branch_score": 51.451928234883454
+  },
+  {
+    "acct_opng_brnch_id": 3426202,
+    "brnch_nm": "BANDAR PUSAT JENGKA",
+    "st_nm": "PAHANG",
+    "Num": 18,
+    "good_branch_score": 51.449620431989274
+  },
+  {
+    "acct_opng_brnch_id": 3426822,
+    "brnch_nm": "IBS KEMAMAN",
+    "st_nm": "TERENGGANU",
+    "Num": 4006,
+    "good_branch_score": 51.443948255000294
+  },
+  {
+    "acct_opng_brnch_id": 3426344,
+    "brnch_nm": "SEKSYEN 20, SHAH ALAM",
+    "st_nm": "SELANGOR",
+    "Num": 863,
+    "good_branch_score": 51.44120176480975
+  },
+  {
+    "acct_opng_brnch_id": 3426245,
+    "brnch_nm": "IPOH MAIN",
+    "st_nm": "PERAK",
+    "Num": 723,
+    "good_branch_score": 51.43090718612449
+  },
+  {
+    "acct_opng_brnch_id": 3426415,
+    "brnch_nm": "KEPONG",
+    "st_nm": "SELANGOR",
+    "Num": 4757,
+    "good_branch_score": 51.428054523452104
+  },
+  {
+    "acct_opng_brnch_id": 3426172,
+    "brnch_nm": "TMN MALIM JAYA, MELAKA",
+    "st_nm": "MELAKA",
+    "Num": 369,
+    "good_branch_score": 51.33605757211395
+  },
+  {
+    "acct_opng_brnch_id": 3426328,
+    "brnch_nm": "KLANG",
+    "st_nm": "SELANGOR",
+    "Num": 789,
+    "good_branch_score": 51.324721652848794
+  },
+  {
+    "acct_opng_brnch_id": 3426405,
+    "brnch_nm": "BUKIT BINTANG",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2606,
+    "good_branch_score": 51.31213338440772
+  },
+  {
+    "acct_opng_brnch_id": 3426183,
+    "brnch_nm": "KUALA KLAWANG",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 162,
+    "good_branch_score": 51.305560075009716
+  },
+  {
+    "acct_opng_brnch_id": 3426538,
+    "brnch_nm": "IBS SENAI",
+    "st_nm": "JOHOR",
+    "Num": 1316,
+    "good_branch_score": 51.287477448324566
+  },
+  {
+    "acct_opng_brnch_id": 3426502,
+    "brnch_nm": "IBS MASAI",
+    "st_nm": "JOHOR",
+    "Num": 2494,
+    "good_branch_score": 51.28228942501417
+  },
+  {
+    "acct_opng_brnch_id": 3426463,
+    "brnch_nm": "ALAM DAMAI",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3035,
+    "good_branch_score": 51.226306825182974
+  },
+  {
+    "acct_opng_brnch_id": 3426534,
+    "brnch_nm": "IBS JLN GENUANG, SEGAMAT",
+    "st_nm": "JOHOR",
+    "Num": 1201,
+    "good_branch_score": 51.22341021172867
+  },
+  {
+    "acct_opng_brnch_id": 3426541,
+    "brnch_nm": "IBS GELANG PATAH, JB",
+    "st_nm": "JOHOR",
+    "Num": 1794,
+    "good_branch_score": 51.185508878482906
+  },
+  {
+    "acct_opng_brnch_id": 3426820,
+    "brnch_nm": "IBS THE REEF, RAWANG",
+    "st_nm": "SELANGOR",
+    "Num": 2569,
+    "good_branch_score": 51.18429590491757
+  },
+  {
+    "acct_opng_brnch_id": 3426787,
+    "brnch_nm": "IBS UEP SUBANG JAYA SC",
+    "st_nm": "SELANGOR",
+    "Num": 457,
+    "good_branch_score": 51.1635510090849
+  },
+  {
+    "acct_opng_brnch_id": 3426897,
+    "brnch_nm": "IBS DESA PARK CITY",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2671,
+    "good_branch_score": 51.15320680750343
+  },
+  {
+    "acct_opng_brnch_id": 3426768,
+    "brnch_nm": "IBS BANDAR BARU BANGI",
+    "st_nm": "SELANGOR",
+    "Num": 4461,
+    "good_branch_score": 51.152665594304
+  },
+  {
+    "acct_opng_brnch_id": 3426524,
+    "brnch_nm": "IBS TMN INTAN, KLUANG",
+    "st_nm": "JOHOR",
+    "Num": 1702,
+    "good_branch_score": 51.14633883486081
+  },
+  {
+    "acct_opng_brnch_id": 3426564,
+    "brnch_nm": "IBS GUA MUSANG",
+    "st_nm": "KELANTAN",
+    "Num": 1220,
+    "good_branch_score": 51.14381613786727
+  },
+  {
+    "acct_opng_brnch_id": 3426675,
+    "brnch_nm": "IBS SELAMA SC",
+    "st_nm": "PERAK",
+    "Num": 738,
+    "good_branch_score": 51.14071778504273
+  },
+  {
+    "acct_opng_brnch_id": 3426872,
+    "brnch_nm": "IBS SENTUL RAYA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1040,
+    "good_branch_score": 51.12205878215763
+  },
+  {
+    "acct_opng_brnch_id": 3426810,
+    "brnch_nm": "IBS SETIA ALAM, SHAH ALAM",
+    "st_nm": "SELANGOR",
+    "Num": 2729,
+    "good_branch_score": 51.1170450672585
+  },
+  {
+    "acct_opng_brnch_id": 3426510,
+    "brnch_nm": "IBS PARIT JAWA SC",
+    "st_nm": "JOHOR",
+    "Num": 417,
+    "good_branch_score": 51.114112410364534
+  },
+  {
+    "acct_opng_brnch_id": 3426827,
+    "brnch_nm": "IBS PAKA",
+    "st_nm": "TERENGGANU",
+    "Num": 3979,
+    "good_branch_score": 51.108831143666464
+  },
+  {
+    "acct_opng_brnch_id": 426981,
+    "brnch_nm": "JELAPANG",
+    "st_nm": "PERAK",
+    "Num": 228,
+    "good_branch_score": 51.09919165704355
+  },
+  {
+    "acct_opng_brnch_id": 3426195,
+    "brnch_nm": "TEMERLOH",
+    "st_nm": "PAHANG",
+    "Num": 670,
+    "good_branch_score": 51.05971712248275
+  },
+  {
+    "acct_opng_brnch_id": 3426290,
+    "brnch_nm": "LINTAS SQUARE",
+    "st_nm": "SABAH",
+    "Num": 2238,
+    "good_branch_score": 51.004649584394556
+  },
+  {
+    "acct_opng_brnch_id": 3426796,
+    "brnch_nm": "IBS PUTRA INDAH",
+    "st_nm": "SELANGOR",
+    "Num": 2388,
+    "good_branch_score": 51.00118101905844
+  },
+  {
+    "acct_opng_brnch_id": 3426767,
+    "brnch_nm": "IBS PANDAN JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 1543,
+    "good_branch_score": 50.99994603760895
+  },
+  {
+    "acct_opng_brnch_id": 3426438,
+    "brnch_nm": "KUCHAI LAMA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 5689,
+    "good_branch_score": 50.99210310366374
+  },
+  {
+    "acct_opng_brnch_id": 426989,
+    "brnch_nm": "PELITA COMMERCIAL CTR",
+    "st_nm": "SARAWAK",
+    "Num": 1073,
+    "good_branch_score": 50.97454944537181
+  },
+  {
+    "acct_opng_brnch_id": 3426694,
+    "brnch_nm": "IBS PADANG BESAR SC",
+    "st_nm": "PERLIS",
+    "Num": 442,
+    "good_branch_score": 50.95948421154675
+  },
+  {
+    "acct_opng_brnch_id": 3426369,
+    "brnch_nm": "PUTRA INDAH",
+    "st_nm": "SELANGOR",
+    "Num": 1180,
+    "good_branch_score": 50.95915374946254
+  },
+  {
+    "acct_opng_brnch_id": 426975,
+    "brnch_nm": "BENTONG",
+    "st_nm": "PAHANG",
+    "Num": 484,
+    "good_branch_score": 50.937245810585544
+  },
+  {
+    "acct_opng_brnch_id": 3426598,
+    "brnch_nm": "IBS KUANTAN MAIN",
+    "st_nm": "PAHANG",
+    "Num": 7178,
+    "good_branch_score": 50.93529798467971
+  },
+  {
+    "acct_opng_brnch_id": 3426299,
+    "brnch_nm": "SIBU",
+    "st_nm": "SARAWAK",
+    "Num": 1863,
+    "good_branch_score": 50.931837005480745
+  },
+  {
+    "acct_opng_brnch_id": 3426571,
+    "brnch_nm": "IBS KUBANG KERIAN",
+    "st_nm": "KELANTAN",
+    "Num": 3363,
+    "good_branch_score": 50.92585409566568
+  },
+  {
+    "acct_opng_brnch_id": 3426713,
+    "brnch_nm": "IBS MILE 4 TAWAU",
+    "st_nm": "SABAH",
+    "Num": 3226,
+    "good_branch_score": 50.91341204779576
+  },
+  {
+    "acct_opng_brnch_id": 3426601,
+    "brnch_nm": "IBS CAMERON HIGHLANDS",
+    "st_nm": "PAHANG",
+    "Num": 1226,
+    "good_branch_score": 50.90743440367419
+  },
+  {
+    "acct_opng_brnch_id": 427001,
+    "brnch_nm": "DAMANSARA UTAMA",
+    "st_nm": "SELANGOR",
+    "Num": 4229,
+    "good_branch_score": 50.90671605837571
+  },
+  {
+    "acct_opng_brnch_id": 426999,
+    "brnch_nm": "SETAPAK",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3464,
+    "good_branch_score": 50.899065325007385
+  },
+  {
+    "acct_opng_brnch_id": 3426366,
+    "brnch_nm": "SELAYANG JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 1266,
+    "good_branch_score": 50.884902488965565
+  },
+  {
+    "acct_opng_brnch_id": 3426641,
+    "brnch_nm": "IBS SUNGAI DUA",
+    "st_nm": "PENANG",
+    "Num": 1749,
+    "good_branch_score": 50.883854059487156
+  },
+  {
+    "acct_opng_brnch_id": 3426531,
+    "brnch_nm": "IBS LAYANG-LAYANG SC",
+    "st_nm": "JOHOR",
+    "Num": 246,
+    "good_branch_score": 50.879554605615226
+  },
+  {
+    "acct_opng_brnch_id": 3426182,
+    "brnch_nm": "PULAU SEBANG",
+    "st_nm": "MELAKA",
+    "Num": 240,
+    "good_branch_score": 50.86516261047925
+  },
+  {
+    "acct_opng_brnch_id": 3426296,
+    "brnch_nm": "MIRI",
+    "st_nm": "SARAWAK",
+    "Num": 793,
+    "good_branch_score": 50.861269651706365
+  },
+  {
+    "acct_opng_brnch_id": 3426198,
+    "brnch_nm": "BUKIT UBI",
+    "st_nm": "PAHANG",
+    "Num": 2124,
+    "good_branch_score": 50.84210160011063
+  },
+  {
+    "acct_opng_brnch_id": 3426754,
+    "brnch_nm": "IBS KLANG",
+    "st_nm": "SELANGOR",
+    "Num": 1883,
+    "good_branch_score": 50.826769056448335
+  },
+  {
+    "acct_opng_brnch_id": 3426906,
+    "brnch_nm": "IBS MIB GUNUNG RAPAT",
+    "st_nm": "PERAK",
+    "Num": 2427,
+    "good_branch_score": 50.817734767594175
+  },
+  {
+    "acct_opng_brnch_id": 3426216,
+    "brnch_nm": "PULAU TIKUS",
+    "st_nm": "PENANG",
+    "Num": 1064,
+    "good_branch_score": 50.80662955974346
+  },
+  {
+    "acct_opng_brnch_id": 3426576,
+    "brnch_nm": "IBS MERLIMAU",
+    "st_nm": "MELAKA",
+    "Num": 2258,
+    "good_branch_score": 50.796754378483655
+  },
+  {
+    "acct_opng_brnch_id": 3426888,
+    "brnch_nm": "IBS BANDAR SRI PERMAISURI",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2085,
+    "good_branch_score": 50.794485998782875
+  },
+  {
+    "acct_opng_brnch_id": 426985,
+    "brnch_nm": "SANDAKAN",
+    "st_nm": "SABAH",
+    "Num": 806,
+    "good_branch_score": 50.75448526844981
+  },
+  {
+    "acct_opng_brnch_id": 3426434,
+    "brnch_nm": "BANDAR SRI DAMANSARA",
+    "st_nm": "SELANGOR",
+    "Num": 1068,
+    "good_branch_score": 50.74791478711533
+  },
+  {
+    "acct_opng_brnch_id": 3426187,
+    "brnch_nm": "NILAI",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 1223,
+    "good_branch_score": 50.74731182032946
+  },
+  {
+    "acct_opng_brnch_id": 3426301,
+    "brnch_nm": "KOTA SENTOSA, KUCHING",
+    "st_nm": "SARAWAK",
+    "Num": 482,
+    "good_branch_score": 50.736351772044905
+  },
+  {
+    "acct_opng_brnch_id": 3426170,
+    "brnch_nm": "ALOR GAJAH",
+    "st_nm": "MELAKA",
+    "Num": 160,
+    "good_branch_score": 50.73388007366387
+  },
+  {
+    "acct_opng_brnch_id": 3426383,
+    "brnch_nm": "SETIA ALAM, SHAH ALAM",
+    "st_nm": "SELANGOR",
+    "Num": 4730,
+    "good_branch_score": 50.70420112789926
+  },
+  {
+    "acct_opng_brnch_id": 426973,
+    "brnch_nm": "KUANTAN MAIN",
+    "st_nm": "PAHANG",
+    "Num": 1153,
+    "good_branch_score": 50.69453507270713
+  },
+  {
+    "acct_opng_brnch_id": 3426816,
+    "brnch_nm": "IBS BANDAR BUKIT TINGGI 1",
+    "st_nm": "SELANGOR",
+    "Num": 1523,
+    "good_branch_score": 50.6882617396915
+  },
+  {
+    "acct_opng_brnch_id": 3426339,
+    "brnch_nm": "SUBANG JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 1864,
+    "good_branch_score": 50.680597661498275
+  },
+  {
+    "acct_opng_brnch_id": 3426521,
+    "brnch_nm": "IBS TMN PERLING, JB",
+    "st_nm": "JOHOR",
+    "Num": 2648,
+    "good_branch_score": 50.65037958799498
+  },
+  {
+    "acct_opng_brnch_id": 3426440,
+    "brnch_nm": "SENTUL RAYA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1140,
+    "good_branch_score": 50.641570483812494
+  },
+  {
+    "acct_opng_brnch_id": 3426556,
+    "brnch_nm": "IBS GURUN",
+    "st_nm": "KEDAH",
+    "Num": 2349,
+    "good_branch_score": 50.63329294427282
+  },
+  {
+    "acct_opng_brnch_id": 3426385,
+    "brnch_nm": "BANDAR UTAMA",
+    "st_nm": "SELANGOR",
+    "Num": 3182,
+    "good_branch_score": 50.62672969716505
+  },
+  {
+    "acct_opng_brnch_id": 3426146,
+    "brnch_nm": "KULIM",
+    "st_nm": "KEDAH",
+    "Num": 379,
+    "good_branch_score": 50.614622701552356
+  },
+  {
+    "acct_opng_brnch_id": 426987,
+    "brnch_nm": "ALAMESRA",
+    "st_nm": "SABAH",
+    "Num": 767,
+    "good_branch_score": 50.578320376829886
+  },
+  {
+    "acct_opng_brnch_id": 3426752,
+    "brnch_nm": "IBS SABAK BERNAM",
+    "st_nm": "SELANGOR",
+    "Num": 887,
+    "good_branch_score": 50.572491130042415
+  },
+  {
+    "acct_opng_brnch_id": 3426581,
+    "brnch_nm": "IBS AYER KEROH",
+    "st_nm": "MELAKA",
+    "Num": 2191,
+    "good_branch_score": 50.45427636171641
+  },
+  {
+    "acct_opng_brnch_id": 3426431,
+    "brnch_nm": "SUNGAI BESI",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1023,
+    "good_branch_score": 50.44059605921948
+  },
+  {
+    "acct_opng_brnch_id": 3426719,
+    "brnch_nm": "IBS LIMBANG",
+    "st_nm": "SARAWAK",
+    "Num": 430,
+    "good_branch_score": 50.40901422295845
+  },
+  {
+    "acct_opng_brnch_id": 3426770,
+    "brnch_nm": "IBS PJ OLD TOWN",
+    "st_nm": "SELANGOR",
+    "Num": 88,
+    "good_branch_score": 50.40506434600412
+  },
+  {
+    "acct_opng_brnch_id": 3426288,
+    "brnch_nm": "PRIMA SQUARE, SANDAKAN",
+    "st_nm": "SABAH",
+    "Num": 1338,
+    "good_branch_score": 50.370477720740936
+  },
+  {
+    "acct_opng_brnch_id": 3426634,
+    "brnch_nm": "IBS PRAI INDUSTRIAL ESTATE",
+    "st_nm": "PENANG",
+    "Num": 1616,
+    "good_branch_score": 50.36499942220942
+  },
+  {
+    "acct_opng_brnch_id": 3426321,
+    "brnch_nm": "PORT KLANG",
+    "st_nm": "SELANGOR",
+    "Num": 1683,
+    "good_branch_score": 50.33092030963427
+  },
+  {
+    "acct_opng_brnch_id": 3426342,
+    "brnch_nm": "PANDAN JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 1664,
+    "good_branch_score": 50.32007456963897
+  },
+  {
+    "acct_opng_brnch_id": 3426516,
+    "brnch_nm": "IBS TMN DAYA, JB",
+    "st_nm": "JOHOR",
+    "Num": 1405,
+    "good_branch_score": 50.308974588808894
+  },
+  {
+    "acct_opng_brnch_id": 3426902,
+    "brnch_nm": "IBS PUTRAJAYA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 4046,
+    "good_branch_score": 50.30211118724695
+  },
+  {
+    "acct_opng_brnch_id": 3426749,
+    "brnch_nm": "IBS KAPAR",
+    "st_nm": "SELANGOR",
+    "Num": 1424,
+    "good_branch_score": 50.29986882691508
+  },
+  {
+    "acct_opng_brnch_id": 3426599,
+    "brnch_nm": "IBS MENTAKAB",
+    "st_nm": "PAHANG",
+    "Num": 2285,
+    "good_branch_score": 50.27879894869286
+  },
+  {
+    "acct_opng_brnch_id": 3426669,
+    "brnch_nm": "IBS SLIM RIVER",
+    "st_nm": "PERAK",
+    "Num": 1728,
+    "good_branch_score": 50.26496794311266
+  },
+  {
+    "acct_opng_brnch_id": 3426413,
+    "brnch_nm": "SEA PARK",
+    "st_nm": "SELANGOR",
+    "Num": 1640,
+    "good_branch_score": 50.23462832062046
+  },
+  {
+    "acct_opng_brnch_id": 3426799,
+    "brnch_nm": "IBS PUSAT BANDAR PUCHONG",
+    "st_nm": "SELANGOR",
+    "Num": 835,
+    "good_branch_score": 50.233318455566796
+  },
+  {
+    "acct_opng_brnch_id": 3426721,
+    "brnch_nm": "IBS LAWAS",
+    "st_nm": "SARAWAK",
+    "Num": 321,
+    "good_branch_score": 50.2297447985492
+  },
+  {
+    "acct_opng_brnch_id": 3426418,
+    "brnch_nm": "KOMPLEKS BANDAR",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1584,
+    "good_branch_score": 50.2262052674456
+  },
+  {
+    "acct_opng_brnch_id": 3426738,
+    "brnch_nm": "IBS KUCHING SELATAN",
+    "st_nm": "SARAWAK",
+    "Num": 739,
+    "good_branch_score": 50.22608200872156
+  },
+  {
+    "acct_opng_brnch_id": 3426659,
+    "brnch_nm": "IBS TAIPING",
+    "st_nm": "PERAK",
+    "Num": 4223,
+    "good_branch_score": 50.21697777857231
+  },
+  {
+    "acct_opng_brnch_id": 3426204,
+    "brnch_nm": "JLN BESERAH, KUANTAN",
+    "st_nm": "PAHANG",
+    "Num": 2438,
+    "good_branch_score": 50.21482100977391
+  },
+  {
+    "acct_opng_brnch_id": 3426394,
+    "brnch_nm": "KUALA TERENGGANU",
+    "st_nm": "TERENGGANU",
+    "Num": 134,
+    "good_branch_score": 50.20761525356505
+  },
+  {
+    "acct_opng_brnch_id": 3426674,
+    "brnch_nm": "IBS SUNGAI SIPUT",
+    "st_nm": "PERAK",
+    "Num": 872,
+    "good_branch_score": 50.19406840229212
+  },
+  {
+    "acct_opng_brnch_id": 3426387,
+    "brnch_nm": "BANDAR PUTERI PUCHONG",
+    "st_nm": "SELANGOR",
+    "Num": 7095,
+    "good_branch_score": 50.17085051878324
+  },
+  {
+    "acct_opng_brnch_id": 3426419,
+    "brnch_nm": "JINJANG",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3276,
+    "good_branch_score": 50.165969052486766
+  },
+  {
+    "acct_opng_brnch_id": 3426540,
+    "brnch_nm": "IBS MIB LARKIN PERDANA, JB",
+    "st_nm": "JOHOR",
+    "Num": 3642,
+    "good_branch_score": 50.1638462761599
+  },
+  {
+    "acct_opng_brnch_id": 3426560,
+    "brnch_nm": "IBS CHANGLUN",
+    "st_nm": "KEDAH",
+    "Num": 1775,
+    "good_branch_score": 50.157385709526686
+  },
+  {
+    "acct_opng_brnch_id": 3426701,
+    "brnch_nm": "IBS INANAM",
+    "st_nm": "SABAH",
+    "Num": 2826,
+    "good_branch_score": 50.148208524102564
+  },
+  {
+    "acct_opng_brnch_id": 3426873,
+    "brnch_nm": "IBS MID VALLEY",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1993,
+    "good_branch_score": 50.14646284829015
+  },
+  {
+    "acct_opng_brnch_id": 3426378,
+    "brnch_nm": "KOTA KEMUNING",
+    "st_nm": "SELANGOR",
+    "Num": 3821,
+    "good_branch_score": 50.1387235627227
+  },
+  {
+    "acct_opng_brnch_id": 3426866,
+    "brnch_nm": "IBS BANDAR SRI DAMANSARA",
+    "st_nm": "SELANGOR",
+    "Num": 3577,
+    "good_branch_score": 50.10370347355272
+  },
+  {
+    "acct_opng_brnch_id": 3426292,
+    "brnch_nm": "KK INT'L AIRPORT SC",
+    "st_nm": "SABAH",
+    "Num": 24,
+    "good_branch_score": 50.086161740020714
+  },
+  {
+    "acct_opng_brnch_id": 3426608,
+    "brnch_nm": "IBS MUADZAM SHAH",
+    "st_nm": "PAHANG",
+    "Num": 1436,
+    "good_branch_score": 50.08485882889747
+  },
+  {
+    "acct_opng_brnch_id": 3426890,
+    "brnch_nm": "IBS MIB SRI GOMBAK, KL",
+    "st_nm": "SELANGOR",
+    "Num": 3646,
+    "good_branch_score": 50.066421660200064
+  },
+  {
+    "acct_opng_brnch_id": 3426376,
+    "brnch_nm": "MUTIARA DAMANSARA, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 1474,
+    "good_branch_score": 50.063998283970086
+  },
+  {
+    "acct_opng_brnch_id": 3426594,
+    "brnch_nm": "IBS SENAWANG",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 4015,
+    "good_branch_score": 50.04403921921459
+  },
+  {
+    "acct_opng_brnch_id": 3426539,
+    "brnch_nm": "IBS PARIT RAJA",
+    "st_nm": "JOHOR",
+    "Num": 1450,
+    "good_branch_score": 50.04142474430381
+  },
+  {
+    "acct_opng_brnch_id": 3426312,
+    "brnch_nm": "KUCHING SELATAN",
+    "st_nm": "SARAWAK",
+    "Num": 2599,
+    "good_branch_score": 50.03929089368158
+  },
+  {
+    "acct_opng_brnch_id": 3426512,
+    "brnch_nm": "IBS PASIR GUDANG",
+    "st_nm": "JOHOR",
+    "Num": 4130,
+    "good_branch_score": 50.02776022804256
+  },
+  {
+    "acct_opng_brnch_id": 3426689,
+    "brnch_nm": "IBS KLEBANG",
+    "st_nm": "PERAK",
+    "Num": 1184,
+    "good_branch_score": 50.01718186887842
+  },
+  {
+    "acct_opng_brnch_id": 3426622,
+    "brnch_nm": "IBS PLAZA MWE",
+    "st_nm": "PENANG",
+    "Num": 1398,
+    "good_branch_score": 49.97705173181885
+  },
+  {
+    "acct_opng_brnch_id": 3426602,
+    "brnch_nm": "IBS TEMERLOH",
+    "st_nm": "PAHANG",
+    "Num": 2685,
+    "good_branch_score": 49.974872809024816
+  },
+  {
+    "acct_opng_brnch_id": 3426825,
+    "brnch_nm": "IBS KERTEH",
+    "st_nm": "TERENGGANU",
+    "Num": 1502,
+    "good_branch_score": 49.9481210480721
+  },
+  {
+    "acct_opng_brnch_id": 3426381,
+    "brnch_nm": "BANDAR SUNGAI LONG",
+    "st_nm": "SELANGOR",
+    "Num": 3352,
+    "good_branch_score": 49.94704777054449
+  },
+  {
+    "acct_opng_brnch_id": 426964,
+    "brnch_nm": "JOHOR BAHRU MAIN",
+    "st_nm": "JOHOR",
+    "Num": 2547,
+    "good_branch_score": 49.94018145590783
+  },
+  {
+    "acct_opng_brnch_id": 3426805,
+    "brnch_nm": "IBS KOTA KEMUNING",
+    "st_nm": "SELANGOR",
+    "Num": 3771,
+    "good_branch_score": 49.92833446429915
+  },
+  {
+    "acct_opng_brnch_id": 426984,
+    "brnch_nm": "KOTA KINABALU",
+    "st_nm": "SABAH",
+    "Num": 1008,
+    "good_branch_score": 49.92239242927492
+  },
+  {
+    "acct_opng_brnch_id": 3426231,
+    "brnch_nm": "SUNGAI DUA",
+    "st_nm": "PENANG",
+    "Num": 146,
+    "good_branch_score": 49.91658554543231
+  },
+  {
+    "acct_opng_brnch_id": 3426887,
+    "brnch_nm": "IBS TMN CHERAS MAKMUR, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 758,
+    "good_branch_score": 49.904921983198214
+  },
+  {
+    "acct_opng_brnch_id": 3426460,
+    "brnch_nm": "SOGO SC",
+    "st_nm": "FED. TERRITORY",
+    "Num": 237,
+    "good_branch_score": 49.89565061604972
+  },
+  {
+    "acct_opng_brnch_id": 3426590,
+    "brnch_nm": "IBS GEMAS",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 1093,
+    "good_branch_score": 49.890675494097884
+  },
+  {
+    "acct_opng_brnch_id": 3426779,
+    "brnch_nm": "IBS BANDAR BARU KLANG",
+    "st_nm": "SELANGOR",
+    "Num": 2300,
+    "good_branch_score": 49.882395846558644
+  },
+  {
+    "acct_opng_brnch_id": 3426495,
+    "brnch_nm": "IBS KOTA TINGGI",
+    "st_nm": "JOHOR",
+    "Num": 1478,
+    "good_branch_score": 49.87131389501983
+  },
+  {
+    "acct_opng_brnch_id": 3426462,
+    "brnch_nm": "SRI PETALING",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3363,
+    "good_branch_score": 49.845300337179935
+  },
+  {
+    "acct_opng_brnch_id": 3426347,
+    "brnch_nm": "BANDAR SUNWAY",
+    "st_nm": "SELANGOR",
+    "Num": 1771,
+    "good_branch_score": 49.845261854755876
+  },
+  {
+    "acct_opng_brnch_id": 3426152,
+    "brnch_nm": "KULIM HI-TECH PARK",
+    "st_nm": "KEDAH",
+    "Num": 372,
+    "good_branch_score": 49.83311795940067
+  },
+  {
+    "acct_opng_brnch_id": 3426807,
+    "brnch_nm": "IBS EQUINE PARK",
+    "st_nm": "SELANGOR",
+    "Num": 7369,
+    "good_branch_score": 49.83254750811602
+  },
+  {
+    "acct_opng_brnch_id": 3426338,
+    "brnch_nm": "SEKSYEN 18, SHAH ALAM",
+    "st_nm": "SELANGOR",
+    "Num": 388,
+    "good_branch_score": 49.810913499886
+  },
+  {
+    "acct_opng_brnch_id": 3426543,
+    "brnch_nm": "IBS SETIA TROPIKA, JB",
+    "st_nm": "JOHOR",
+    "Num": 3649,
+    "good_branch_score": 49.806879700787725
+  },
+  {
+    "acct_opng_brnch_id": 3426856,
+    "brnch_nm": "IBS TMN SEGAR, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 440,
+    "good_branch_score": 49.77735400640095
+  },
+  {
+    "acct_opng_brnch_id": 3426588,
+    "brnch_nm": "IBS PULAU SEBANG",
+    "st_nm": "MELAKA",
+    "Num": 1889,
+    "good_branch_score": 49.760005616799674
+  },
+  {
+    "acct_opng_brnch_id": 3426214,
+    "brnch_nm": "PLAZA MWE",
+    "st_nm": "PENANG",
+    "Num": 1027,
+    "good_branch_score": 49.751286023022715
+  },
+  {
+    "acct_opng_brnch_id": 3426862,
+    "brnch_nm": "IBS MEDAN TUANKU",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2144,
+    "good_branch_score": 49.72925765388948
+  },
+  {
+    "acct_opng_brnch_id": 3426302,
+    "brnch_nm": "JLN PENDING, KUCHING",
+    "st_nm": "SARAWAK",
+    "Num": 1207,
+    "good_branch_score": 49.69928487107056
+  },
+  {
+    "acct_opng_brnch_id": 3426617,
+    "brnch_nm": "IBS RAUB",
+    "st_nm": "PAHANG",
+    "Num": 1297,
+    "good_branch_score": 49.6988544272397
+  },
+  {
+    "acct_opng_brnch_id": 3426340,
+    "brnch_nm": "SS2, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 4193,
+    "good_branch_score": 49.697822815022185
+  },
+  {
+    "acct_opng_brnch_id": 3426304,
+    "brnch_nm": "MUKAH",
+    "st_nm": "SARAWAK",
+    "Num": 738,
+    "good_branch_score": 49.69065758185795
+  },
+  {
+    "acct_opng_brnch_id": 3426814,
+    "brnch_nm": "IBS BANDAR PUTERI PUCHONG",
+    "st_nm": "SELANGOR",
+    "Num": 1970,
+    "good_branch_score": 49.69054007399702
+  },
+  {
+    "acct_opng_brnch_id": 426997,
+    "brnch_nm": "JLN PUDU, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1974,
+    "good_branch_score": 49.68639807542931
+  },
+  {
+    "acct_opng_brnch_id": 3426809,
+    "brnch_nm": "IBS MIB BANDAR BARU BANGI",
+    "st_nm": "SELANGOR",
+    "Num": 7907,
+    "good_branch_score": 49.66099644847396
+  },
+  {
+    "acct_opng_brnch_id": 3426684,
+    "brnch_nm": "IBS GREENTOWN",
+    "st_nm": "PERAK",
+    "Num": 1334,
+    "good_branch_score": 49.6536517648376
+  },
+  {
+    "acct_opng_brnch_id": 3426384,
+    "brnch_nm": "BANDAR KINRARA SC",
+    "st_nm": "SELANGOR",
+    "Num": 2219,
+    "good_branch_score": 49.65312616797604
+  },
+  {
+    "acct_opng_brnch_id": 3426499,
+    "brnch_nm": "IBS LABIS",
+    "st_nm": "JOHOR",
+    "Num": 628,
+    "good_branch_score": 49.6247602720894
+  },
+  {
+    "acct_opng_brnch_id": 3426490,
+    "brnch_nm": "IBS PONTIAN",
+    "st_nm": "JOHOR",
+    "Num": 994,
+    "good_branch_score": 49.61954030961165
+  },
+  {
+    "acct_opng_brnch_id": 3426892,
+    "brnch_nm": "IBS SEKSYEN 5, WANGSA MAJU",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3960,
+    "good_branch_score": 49.605992700677355
+  },
+  {
+    "acct_opng_brnch_id": 3426464,
+    "brnch_nm": "DESA PARK CITY",
+    "st_nm": "FED. TERRITORY",
+    "Num": 5358,
+    "good_branch_score": 49.60282861956778
+  },
+  {
+    "acct_opng_brnch_id": 3426646,
+    "brnch_nm": "IBS MIB BAGAN BUTTERWORTH",
+    "st_nm": "PENANG",
+    "Num": 2169,
+    "good_branch_score": 49.596766918208615
+  },
+  {
+    "acct_opng_brnch_id": 3426511,
+    "brnch_nm": "IBS PAGOH SC",
+    "st_nm": "JOHOR",
+    "Num": 1289,
+    "good_branch_score": 49.59338466303
+  },
+  {
+    "acct_opng_brnch_id": 3426422,
+    "brnch_nm": "TMN TUN DR. ISMAIL, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3730,
+    "good_branch_score": 49.592982259600646
+  },
+  {
+    "acct_opng_brnch_id": 3426785,
+    "brnch_nm": "IBS MENARA KLANG",
+    "st_nm": "SELANGOR",
+    "Num": 1280,
+    "good_branch_score": 49.58836533072064
+  },
+  {
+    "acct_opng_brnch_id": 3426776,
+    "brnch_nm": "IBS USJ SUBANG JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 3286,
+    "good_branch_score": 49.5736845401249
+  },
+  {
+    "acct_opng_brnch_id": 3426650,
+    "brnch_nm": "IBS SEBERANG JAYA",
+    "st_nm": "PENANG",
+    "Num": 3262,
+    "good_branch_score": 49.57112013421059
+  },
+  {
+    "acct_opng_brnch_id": 3426332,
+    "brnch_nm": "SELAYANG",
+    "st_nm": "FED. TERRITORY",
+    "Num": 417,
+    "good_branch_score": 49.56784349473548
+  },
+  {
+    "acct_opng_brnch_id": 3426849,
+    "brnch_nm": "IBS JLN MAKTAB, KL SC",
+    "st_nm": "FED. TERRITORY",
+    "Num": 935,
+    "good_branch_score": 49.564120580314636
+  },
+  {
+    "acct_opng_brnch_id": 3426314,
+    "brnch_nm": "BATU KAWAH",
+    "st_nm": "SARAWAK",
+    "Num": 606,
+    "good_branch_score": 49.560952941238696
+  },
+  {
+    "acct_opng_brnch_id": 3426751,
+    "brnch_nm": "IBS SUBANG PERDANA",
+    "st_nm": "SELANGOR",
+    "Num": 5809,
+    "good_branch_score": 49.54361249836308
+  },
+  {
+    "acct_opng_brnch_id": 3426167,
+    "brnch_nm": "KUBANG KERIAN",
+    "st_nm": "KELANTAN",
+    "Num": 34,
+    "good_branch_score": 49.498744032667055
+  },
+  {
+    "acct_opng_brnch_id": 3426710,
+    "brnch_nm": "IBS LINTAS SQUARE",
+    "st_nm": "SABAH",
+    "Num": 1753,
+    "good_branch_score": 49.49696901153583
+  },
+  {
+    "acct_opng_brnch_id": 3426619,
+    "brnch_nm": "IBS PENANG MAIN",
+    "st_nm": "PENANG",
+    "Num": 1653,
+    "good_branch_score": 49.49099282431932
+  },
+  {
+    "acct_opng_brnch_id": 3426242,
+    "brnch_nm": "QUEENSBAY MALL",
+    "st_nm": "PENANG",
+    "Num": 1221,
+    "good_branch_score": 49.47359897423406
+  },
+  {
+    "acct_opng_brnch_id": 3426230,
+    "brnch_nm": "SIMPANG AMPAT",
+    "st_nm": "PENANG",
+    "Num": 326,
+    "good_branch_score": 49.46932191369625
+  },
+  {
+    "acct_opng_brnch_id": 3426572,
+    "brnch_nm": "IBS JLN MUNSHI ABDULLAH, MELAK",
+    "st_nm": "MELAKA",
+    "Num": 2263,
+    "good_branch_score": 49.46904048046624
+  },
+  {
+    "acct_opng_brnch_id": 3426780,
+    "brnch_nm": "IBS TMN SRI GOMBAK, S'GOR",
+    "st_nm": "SELANGOR",
+    "Num": 4904,
+    "good_branch_score": 49.46702806475029
+  },
+  {
+    "acct_opng_brnch_id": 3426569,
+    "brnch_nm": "IBS MIB KOTA BHARU",
+    "st_nm": "KELANTAN",
+    "Num": 4851,
+    "good_branch_score": 49.44294604330237
+  },
+  {
+    "acct_opng_brnch_id": 3426134,
+    "brnch_nm": "TMN MOLEK, JB",
+    "st_nm": "JOHOR",
+    "Num": 1576,
+    "good_branch_score": 49.44018435490155
+  },
+  {
+    "acct_opng_brnch_id": 426976,
+    "brnch_nm": "PRAI INDUSTRIAL ESTATE",
+    "st_nm": "PENANG",
+    "Num": 869,
+    "good_branch_score": 49.438022137020695
+  },
+  {
+    "acct_opng_brnch_id": 3426568,
+    "brnch_nm": "IBS TUMPAT SC",
+    "st_nm": "KELANTAN",
+    "Num": 1129,
+    "good_branch_score": 49.41732499616594
+  },
+  {
+    "acct_opng_brnch_id": 3426705,
+    "brnch_nm": "IBS SIPITANG",
+    "st_nm": "SABAH",
+    "Num": 1812,
+    "good_branch_score": 49.41592789672804
+  },
+  {
+    "acct_opng_brnch_id": 3426593,
+    "brnch_nm": "IBS NILAI",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 3957,
+    "good_branch_score": 49.40362900674031
+  },
+  {
+    "acct_opng_brnch_id": 3426597,
+    "brnch_nm": "IBS SEREMBAN 2",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 3852,
+    "good_branch_score": 49.3916295047856
+  },
+  {
+    "acct_opng_brnch_id": 3426375,
+    "brnch_nm": "GIZA, KOTA DAMANSARA",
+    "st_nm": "SELANGOR",
+    "Num": 4700,
+    "good_branch_score": 49.368952233888095
+  },
+  {
+    "acct_opng_brnch_id": 3426566,
+    "brnch_nm": "IBS RANTAU PANJANG SC",
+    "st_nm": "KELANTAN",
+    "Num": 876,
+    "good_branch_score": 49.36628350665912
+  },
+  {
+    "acct_opng_brnch_id": 427000,
+    "brnch_nm": "PETALING JAYA MAIN",
+    "st_nm": "SELANGOR",
+    "Num": 1528,
+    "good_branch_score": 49.36153326009129
+  },
+  {
+    "acct_opng_brnch_id": 3426904,
+    "brnch_nm": "IBS MIB KOTA DAMANSARA",
+    "st_nm": "SELANGOR",
+    "Num": 3751,
+    "good_branch_score": 49.34144172786142
+  },
+  {
+    "acct_opng_brnch_id": 426993,
+    "brnch_nm": "PUCHONG JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 3723,
+    "good_branch_score": 49.332991054469886
+  },
+  {
+    "acct_opng_brnch_id": 3426110,
+    "brnch_nm": "SKUDAI",
+    "st_nm": "JOHOR",
+    "Num": 676,
+    "good_branch_score": 49.32588182567348
+  },
+  {
+    "acct_opng_brnch_id": 3426631,
+    "brnch_nm": "IBS BAYAN LEPAS",
+    "st_nm": "PENANG",
+    "Num": 3171,
+    "good_branch_score": 49.3255393400038
+  },
+  {
+    "acct_opng_brnch_id": 3426595,
+    "brnch_nm": "IBS RAHANG",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 1827,
+    "good_branch_score": 49.3025062259365
+  },
+  {
+    "acct_opng_brnch_id": 3426583,
+    "brnch_nm": "IBS MITC AYER KEROH",
+    "st_nm": "MELAKA",
+    "Num": 3457,
+    "good_branch_score": 49.302144434918276
+  },
+  {
+    "acct_opng_brnch_id": 3426782,
+    "brnch_nm": "IBS KLIA",
+    "st_nm": "SELANGOR",
+    "Num": 792,
+    "good_branch_score": 49.28664148959926
+  },
+  {
+    "acct_opng_brnch_id": 3426317,
+    "brnch_nm": "TABUAN JAYA",
+    "st_nm": "SARAWAK",
+    "Num": 1374,
+    "good_branch_score": 49.22658163730977
+  },
+  {
+    "acct_opng_brnch_id": 3426813,
+    "brnch_nm": "IBS AEON BUKIT TINGGI, KLANG S",
+    "st_nm": "SELANGOR",
+    "Num": 1364,
+    "good_branch_score": 49.22062351345179
+  },
+  {
+    "acct_opng_brnch_id": 3426386,
+    "brnch_nm": "AEON BUKIT TINGGI, KLANG SC",
+    "st_nm": "SELANGOR",
+    "Num": 2084,
+    "good_branch_score": 49.21651545131901
+  },
+  {
+    "acct_opng_brnch_id": 3426664,
+    "brnch_nm": "IBS BIDOR",
+    "st_nm": "PERAK",
+    "Num": 664,
+    "good_branch_score": 49.18254979225942
+  },
+  {
+    "acct_opng_brnch_id": 3426811,
+    "brnch_nm": "IBS BANDAR KINRARA SC",
+    "st_nm": "SELANGOR",
+    "Num": 2840,
+    "good_branch_score": 49.173472047771675
+  },
+  {
+    "acct_opng_brnch_id": 3426580,
+    "brnch_nm": "IBS MASJID TANAH",
+    "st_nm": "MELAKA",
+    "Num": 1817,
+    "good_branch_score": 49.160740491440826
+  },
+  {
+    "acct_opng_brnch_id": 3426459,
+    "brnch_nm": "SEKSYEN 5, WANGSA MAJU",
+    "st_nm": "FED. TERRITORY",
+    "Num": 621,
+    "good_branch_score": 49.15390749993399
+  },
+  {
+    "acct_opng_brnch_id": 3426830,
+    "brnch_nm": "IBS JLN TUANKU ABD RAHMAN, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 713,
+    "good_branch_score": 49.14727371349888
+  },
+  {
+    "acct_opng_brnch_id": 3426350,
+    "brnch_nm": "USJ SUBANG JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 3754,
+    "good_branch_score": 49.1350060423222
+  },
+  {
+    "acct_opng_brnch_id": 3426633,
+    "brnch_nm": "IBS GELUGOR",
+    "st_nm": "PENANG",
+    "Num": 1048,
+    "good_branch_score": 49.13318275682811
+  },
+  {
+    "acct_opng_brnch_id": 3426783,
+    "brnch_nm": "IBS PRIMA AVENUE, CYBERJAYA SC",
+    "st_nm": "SELANGOR",
+    "Num": 2842,
+    "good_branch_score": 49.08455683314461
+  },
+  {
+    "acct_opng_brnch_id": 3426804,
+    "brnch_nm": "IBS PUCHONG PRIMA",
+    "st_nm": "SELANGOR",
+    "Num": 3050,
+    "good_branch_score": 49.077491177890394
+  },
+  {
+    "acct_opng_brnch_id": 426998,
+    "brnch_nm": "AMPANG PARK",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1565,
+    "good_branch_score": 49.07555185579266
+  },
+  {
+    "acct_opng_brnch_id": 3426728,
+    "brnch_nm": "IBS WISMA SATOK",
+    "st_nm": "SARAWAK",
+    "Num": 1616,
+    "good_branch_score": 49.054443899675405
+  },
+  {
+    "acct_opng_brnch_id": 426986,
+    "brnch_nm": "JLN PERPADUAN, KK",
+    "st_nm": "SABAH",
+    "Num": 920,
+    "good_branch_score": 49.01874042911183
+  },
+  {
+    "acct_opng_brnch_id": 3426121,
+    "brnch_nm": "TMN PERLING, JB",
+    "st_nm": "JOHOR",
+    "Num": 90,
+    "good_branch_score": 48.996218208946935
+  },
+  {
+    "acct_opng_brnch_id": 3426717,
+    "brnch_nm": "IBS DONGGONGON",
+    "st_nm": "SABAH",
+    "Num": 1585,
+    "good_branch_score": 48.98293247492517
+  },
+  {
+    "acct_opng_brnch_id": 3426414,
+    "brnch_nm": "JLN YONG SHOOK LIN, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 506,
+    "good_branch_score": 48.95339548810859
+  },
+  {
+    "acct_opng_brnch_id": 3426410,
+    "brnch_nm": "TMN MIDAH, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1604,
+    "good_branch_score": 48.93038809658173
+  },
+  {
+    "acct_opng_brnch_id": 3426141,
+    "brnch_nm": "AEON BUKIT INDAH, JB SC",
+    "st_nm": "JOHOR",
+    "Num": 716,
+    "good_branch_score": 48.919813147958706
+  },
+  {
+    "acct_opng_brnch_id": 3426708,
+    "brnch_nm": "IBS PRIMA SQUARE, SANDAKAN",
+    "st_nm": "SABAH",
+    "Num": 2075,
+    "good_branch_score": 48.917824556813066
+  },
+  {
+    "acct_opng_brnch_id": 3426420,
+    "brnch_nm": "DATARAN MAYBANK",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2933,
+    "good_branch_score": 48.899024769171895
+  },
+  {
+    "acct_opng_brnch_id": 3426737,
+    "brnch_nm": "IBS SIBU CENTRAL",
+    "st_nm": "SARAWAK",
+    "Num": 1862,
+    "good_branch_score": 48.88263267306472
+  },
+  {
+    "acct_opng_brnch_id": 3426635,
+    "brnch_nm": "IBS JLN ONG YI HOW, BUTTERWORT",
+    "st_nm": "PENANG",
+    "Num": 1717,
+    "good_branch_score": 48.879594033628614
+  },
+  {
+    "acct_opng_brnch_id": 3426391,
+    "brnch_nm": "ARA DAMANSARA",
+    "st_nm": "SELANGOR",
+    "Num": 3810,
+    "good_branch_score": 48.876259127601095
+  },
+  {
+    "acct_opng_brnch_id": 3426493,
+    "brnch_nm": "IBS JLN AWANG, SEGAMAT SC",
+    "st_nm": "JOHOR",
+    "Num": 1278,
+    "good_branch_score": 48.87029001124071
+  },
+  {
+    "acct_opng_brnch_id": 3426465,
+    "brnch_nm": "PWL PAVILLION",
+    "st_nm": "FED. TERRITORY",
+    "Num": 298,
+    "good_branch_score": 48.865499886903436
+  },
+  {
+    "acct_opng_brnch_id": 3426778,
+    "brnch_nm": "IBS CHERAS SELATAN",
+    "st_nm": "SELANGOR",
+    "Num": 5093,
+    "good_branch_score": 48.84413233828107
+  },
+  {
+    "acct_opng_brnch_id": 3426645,
+    "brnch_nm": "IBS BANDAR BARU AIR ITAM",
+    "st_nm": "PENANG",
+    "Num": 1046,
+    "good_branch_score": 48.838558004068894
+  },
+  {
+    "acct_opng_brnch_id": 3426850,
+    "brnch_nm": "IBS JLN GOMBAK, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3368,
+    "good_branch_score": 48.83253309406569
+  },
+  {
+    "acct_opng_brnch_id": 3426281,
+    "brnch_nm": "KUDAT",
+    "st_nm": "SABAH",
+    "Num": 833,
+    "good_branch_score": 48.82968587926834
+  },
+  {
+    "acct_opng_brnch_id": 3426843,
+    "brnch_nm": "IBS JLN RAJA LAUT, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 980,
+    "good_branch_score": 48.81214188927701
+  },
+  {
+    "acct_opng_brnch_id": 3426345,
+    "brnch_nm": "PJ OLD TOWN",
+    "st_nm": "SELANGOR",
+    "Num": 833,
+    "good_branch_score": 48.80142272015982
+  },
+  {
+    "acct_opng_brnch_id": 3426786,
+    "brnch_nm": "IBS TTDI JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 7057,
+    "good_branch_score": 48.78136828662852
+  },
+  {
+    "acct_opng_brnch_id": 3426730,
+    "brnch_nm": "IBS SARIKEI",
+    "st_nm": "SARAWAK",
+    "Num": 842,
+    "good_branch_score": 48.778119337952326
+  },
+  {
+    "acct_opng_brnch_id": 3426284,
+    "brnch_nm": "KUNAK SC",
+    "st_nm": "SABAH",
+    "Num": 602,
+    "good_branch_score": 48.77712516627705
+  },
+  {
+    "acct_opng_brnch_id": 3426489,
+    "brnch_nm": "IBS JOHOR BAHRU MAIN",
+    "st_nm": "JOHOR",
+    "Num": 2196,
+    "good_branch_score": 48.77259695363491
+  },
+  {
+    "acct_opng_brnch_id": 3426835,
+    "brnch_nm": "IBS JLN IPOH, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1018,
+    "good_branch_score": 48.757173557495335
+  },
+  {
+    "acct_opng_brnch_id": 3426769,
+    "brnch_nm": "IBS SEKSYEN 20, SHAH ALAM",
+    "st_nm": "SELANGOR",
+    "Num": 3682,
+    "good_branch_score": 48.727571210352046
+  },
+  {
+    "acct_opng_brnch_id": 3426676,
+    "brnch_nm": "IBS JELAPANG",
+    "st_nm": "PERAK",
+    "Num": 2110,
+    "good_branch_score": 48.724929769670425
+  },
+  {
+    "acct_opng_brnch_id": 3426582,
+    "brnch_nm": "IBS CHENG",
+    "st_nm": "MELAKA",
+    "Num": 3979,
+    "good_branch_score": 48.70411806387184
+  },
+  {
+    "acct_opng_brnch_id": 3426745,
+    "brnch_nm": "IBS KAJANG",
+    "st_nm": "SELANGOR",
+    "Num": 2474,
+    "good_branch_score": 48.673561911359535
+  },
+  {
+    "acct_opng_brnch_id": 3426683,
+    "brnch_nm": "IBS KAMUNTING",
+    "st_nm": "PERAK",
+    "Num": 1519,
+    "good_branch_score": 48.64222788366525
+  },
+  {
+    "acct_opng_brnch_id": 3426102,
+    "brnch_nm": "JLN TEBRAU, JB",
+    "st_nm": "JOHOR",
+    "Num": 1318,
+    "good_branch_score": 48.63590761259416
+  },
+  {
+    "acct_opng_brnch_id": 3426723,
+    "brnch_nm": "IBS BINTULU",
+    "st_nm": "SARAWAK",
+    "Num": 1461,
+    "good_branch_score": 48.62619644281479
+  },
+  {
+    "acct_opng_brnch_id": 3426501,
+    "brnch_nm": "IBS JLN LARKIN, JB",
+    "st_nm": "JOHOR",
+    "Num": 2894,
+    "good_branch_score": 48.61419003349871
+  },
+  {
+    "acct_opng_brnch_id": 3426523,
+    "brnch_nm": "IBS KOTA ISKANDAR, NUSAJAYA SC",
+    "st_nm": "JOHOR",
+    "Num": 327,
+    "good_branch_score": 48.61307341243859
+  },
+  {
+    "acct_opng_brnch_id": 3426662,
+    "brnch_nm": "IBS TANJUNG MALIM",
+    "st_nm": "PERAK",
+    "Num": 1868,
+    "good_branch_score": 48.60698478260574
+  },
+  {
+    "acct_opng_brnch_id": 3426513,
+    "brnch_nm": "IBS TAMPOI",
+    "st_nm": "JOHOR",
+    "Num": 2582,
+    "good_branch_score": 48.59630427078079
+  },
+  {
+    "acct_opng_brnch_id": 3426870,
+    "brnch_nm": "IBS KUCHAI LAMA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1720,
+    "good_branch_score": 48.594682494416425
+  },
+  {
+    "acct_opng_brnch_id": 3426841,
+    "brnch_nm": "IBS TMN MIDAH, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2046,
+    "good_branch_score": 48.584509905174485
+  },
+  {
+    "acct_opng_brnch_id": 3426797,
+    "brnch_nm": "IBS AMPANG POINT",
+    "st_nm": "SELANGOR",
+    "Num": 2775,
+    "good_branch_score": 48.57161570740134
+  },
+  {
+    "acct_opng_brnch_id": 3426573,
+    "brnch_nm": "IBS MELAKA MAIN",
+    "st_nm": "MELAKA",
+    "Num": 3097,
+    "good_branch_score": 48.56309292058266
+  },
+  {
+    "acct_opng_brnch_id": 3426894,
+    "brnch_nm": "IBS TMN KINRARA, S'GOR",
+    "st_nm": "SELANGOR",
+    "Num": 1472,
+    "good_branch_score": 48.53001970261559
+  },
+  {
+    "acct_opng_brnch_id": 3426806,
+    "brnch_nm": "IBS DAMANSARA DAMAI",
+    "st_nm": "SELANGOR",
+    "Num": 1589,
+    "good_branch_score": 48.52568621699488
+  },
+  {
+    "acct_opng_brnch_id": 3426554,
+    "brnch_nm": "IBS TMN RIA JAYA, SG PETANI",
+    "st_nm": "KEDAH",
+    "Num": 2929,
+    "good_branch_score": 48.497078446612136
+  },
+  {
+    "acct_opng_brnch_id": 3426851,
+    "brnch_nm": "IBS KOMPLEKS BANDAR",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2947,
+    "good_branch_score": 48.47011229230478
+  },
+  {
+    "acct_opng_brnch_id": 3426610,
+    "brnch_nm": "IBS BANDAR PUSAT JENGKA",
+    "st_nm": "PAHANG",
+    "Num": 1282,
+    "good_branch_score": 48.464825474112786
+  },
+  {
+    "acct_opng_brnch_id": 3426129,
+    "brnch_nm": "RENGIT",
+    "st_nm": "JOHOR",
+    "Num": 500,
+    "good_branch_score": 48.42313598971416
+  },
+  {
+    "acct_opng_brnch_id": 3426390,
+    "brnch_nm": "SAAS AIRPORT SC",
+    "st_nm": "SELANGOR",
+    "Num": 156,
+    "good_branch_score": 48.40537387349849
+  },
+  {
+    "acct_opng_brnch_id": 3426847,
+    "brnch_nm": "IBS DAMANSARA UTAMA",
+    "st_nm": "SELANGOR",
+    "Num": 1151,
+    "good_branch_score": 48.40412432547631
+  },
+  {
+    "acct_opng_brnch_id": 3426525,
+    "brnch_nm": "IBS JLN SEGGET, JB",
+    "st_nm": "JOHOR",
+    "Num": 995,
+    "good_branch_score": 48.3895935563019
+  },
+  {
+    "acct_opng_brnch_id": 3426626,
+    "brnch_nm": "IBS BALIK PULAU",
+    "st_nm": "PENANG",
+    "Num": 1111,
+    "good_branch_score": 48.3731870034927
+  },
+  {
+    "acct_opng_brnch_id": 3426855,
+    "brnch_nm": "IBS TMN TUN DR. ISMAIL, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2287,
+    "good_branch_score": 48.35834913925951
+  },
+  {
+    "acct_opng_brnch_id": 3426609,
+    "brnch_nm": "IBS BENTONG",
+    "st_nm": "PAHANG",
+    "Num": 1007,
+    "good_branch_score": 48.3149218081056
+  },
+  {
+    "acct_opng_brnch_id": 3426864,
+    "brnch_nm": "IBS SUNGAI BESI",
+    "st_nm": "FED. TERRITORY",
+    "Num": 478,
+    "good_branch_score": 48.26360545476252
+  },
+  {
+    "acct_opng_brnch_id": 3426179,
+    "brnch_nm": "KUALA PILAH",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 457,
+    "good_branch_score": 48.24639494007582
+  },
+  {
+    "acct_opng_brnch_id": 3426606,
+    "brnch_nm": "IBS BUKIT UBI",
+    "st_nm": "PAHANG",
+    "Num": 4472,
+    "good_branch_score": 48.22970042453204
+  },
+  {
+    "acct_opng_brnch_id": 3426310,
+    "brnch_nm": "BOULEVARD CTR, MIRI",
+    "st_nm": "SARAWAK",
+    "Num": 2480,
+    "good_branch_score": 48.21747756472321
+  },
+  {
+    "acct_opng_brnch_id": 3426795,
+    "brnch_nm": "IBS INTAN MILLENNIUM",
+    "st_nm": "SELANGOR",
+    "Num": 2343,
+    "good_branch_score": 48.20139806796799
+  },
+  {
+    "acct_opng_brnch_id": 3426658,
+    "brnch_nm": "IBS KAMPAR",
+    "st_nm": "PERAK",
+    "Num": 1275,
+    "good_branch_score": 48.16645544481589
+  },
+  {
+    "acct_opng_brnch_id": 3426452,
+    "brnch_nm": "KL SENTRAL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1862,
+    "good_branch_score": 48.163633303947705
+  },
+  {
+    "acct_opng_brnch_id": 3426775,
+    "brnch_nm": "IBS KELANA JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 1830,
+    "good_branch_score": 48.15573660235493
+  },
+  {
+    "acct_opng_brnch_id": 3426497,
+    "brnch_nm": "IBS MERSING",
+    "st_nm": "JOHOR",
+    "Num": 1366,
+    "good_branch_score": 48.145422616566016
+  },
+  {
+    "acct_opng_brnch_id": 3426661,
+    "brnch_nm": "IBS GERIK",
+    "st_nm": "PERAK",
+    "Num": 1397,
+    "good_branch_score": 48.12140875099961
+  },
+  {
+    "acct_opng_brnch_id": 3426735,
+    "brnch_nm": "IBS MIB AL-IDRUS",
+    "st_nm": "SARAWAK",
+    "Num": 1803,
+    "good_branch_score": 48.11341159070482
+  },
+  {
+    "acct_opng_brnch_id": 3426844,
+    "brnch_nm": "IBS PETALING JAYA MAIN",
+    "st_nm": "SELANGOR",
+    "Num": 970,
+    "good_branch_score": 48.104977065839584
+  },
+  {
+    "acct_opng_brnch_id": 3426178,
+    "brnch_nm": "MITC AYER KEROH",
+    "st_nm": "MELAKA",
+    "Num": 130,
+    "good_branch_score": 48.0942233439287
+  },
+  {
+    "acct_opng_brnch_id": 3426535,
+    "brnch_nm": "IBS TMN MOLEK, JB",
+    "st_nm": "JOHOR",
+    "Num": 1447,
+    "good_branch_score": 48.05151655189906
+  },
+  {
+    "acct_opng_brnch_id": 3426327,
+    "brnch_nm": "SHAH ALAM MAIN",
+    "st_nm": "SELANGOR",
+    "Num": 911,
+    "good_branch_score": 48.03221863752346
+  },
+  {
+    "acct_opng_brnch_id": 3426839,
+    "brnch_nm": "IBS JLN KLANG LAMA, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3816,
+    "good_branch_score": 48.01991534281498
+  },
+  {
+    "acct_opng_brnch_id": 3426565,
+    "brnch_nm": "IBS TANAH MERAH",
+    "st_nm": "KELANTAN",
+    "Num": 3803,
+    "good_branch_score": 48.01599214364547
+  },
+  {
+    "acct_opng_brnch_id": 3426821,
+    "brnch_nm": "IBS KUALA TERENGGANU",
+    "st_nm": "TERENGGANU",
+    "Num": 7089,
+    "good_branch_score": 47.992847676486456
+  },
+  {
+    "acct_opng_brnch_id": 3426287,
+    "brnch_nm": "BANDAR SAHABAT SC",
+    "st_nm": "SABAH",
+    "Num": 416,
+    "good_branch_score": 47.93563018607366
+  },
+  {
+    "acct_opng_brnch_id": 3426763,
+    "brnch_nm": "IBS SEKSYEN 18, SHAH ALAM",
+    "st_nm": "SELANGOR",
+    "Num": 2705,
+    "good_branch_score": 47.92484302061793
+  },
+  {
+    "acct_opng_brnch_id": 3426666,
+    "brnch_nm": "IBS TAPAH",
+    "st_nm": "PERAK",
+    "Num": 859,
+    "good_branch_score": 47.920519712069385
+  },
+  {
+    "acct_opng_brnch_id": 3426652,
+    "brnch_nm": "IBS QUEENSBAY MALL",
+    "st_nm": "PENANG",
+    "Num": 1814,
+    "good_branch_score": 47.91980570097152
+  },
+  {
+    "acct_opng_brnch_id": 426970,
+    "brnch_nm": "KOTA BHARU",
+    "st_nm": "KELANTAN",
+    "Num": 330,
+    "good_branch_score": 47.91594279776863
+  },
+  {
+    "acct_opng_brnch_id": 3426691,
+    "brnch_nm": "IBS SUNWAY CITY SC",
+    "st_nm": "PERAK",
+    "Num": 1395,
+    "good_branch_score": 47.90055023664245
+  },
+  {
+    "acct_opng_brnch_id": 3426640,
+    "brnch_nm": "IBS GREENLANE",
+    "st_nm": "PENANG",
+    "Num": 1852,
+    "good_branch_score": 47.899731065892766
+  },
+  {
+    "acct_opng_brnch_id": 3426798,
+    "brnch_nm": "IBS DAMANSARA JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 1660,
+    "good_branch_score": 47.896405900108206
+  },
+  {
+    "acct_opng_brnch_id": 3426629,
+    "brnch_nm": "IBS BUTTERWORTH",
+    "st_nm": "PENANG",
+    "Num": 1195,
+    "good_branch_score": 47.881046529988765
+  },
+  {
+    "acct_opng_brnch_id": 3426504,
+    "brnch_nm": "IBS BANDAR TENGGARA SC",
+    "st_nm": "JOHOR",
+    "Num": 870,
+    "good_branch_score": 47.85120389364241
+  },
+  {
+    "acct_opng_brnch_id": 3426818,
+    "brnch_nm": "IBS ARA DAMANSARA",
+    "st_nm": "SELANGOR",
+    "Num": 2294,
+    "good_branch_score": 47.80512056673545
+  },
+  {
+    "acct_opng_brnch_id": 3426665,
+    "brnch_nm": "IBS BATU GAJAH",
+    "st_nm": "PERAK",
+    "Num": 1291,
+    "good_branch_score": 47.80202935215185
+  },
+  {
+    "acct_opng_brnch_id": 3426648,
+    "brnch_nm": "IBS MIB BAYAN BARU",
+    "st_nm": "PENANG",
+    "Num": 1870,
+    "good_branch_score": 47.7205837055157
+  },
+  {
+    "acct_opng_brnch_id": 426966,
+    "brnch_nm": "TMN PELANGI, JB",
+    "st_nm": "JOHOR",
+    "Num": 711,
+    "good_branch_score": 47.703310061790525
+  },
+  {
+    "acct_opng_brnch_id": 3426905,
+    "brnch_nm": "IBS MIB MELAKA",
+    "st_nm": "MELAKA",
+    "Num": 2372,
+    "good_branch_score": 47.65486352014922
+  },
+  {
+    "acct_opng_brnch_id": 3426437,
+    "brnch_nm": "MENARA PERKESO",
+    "st_nm": "FED. TERRITORY",
+    "Num": 633,
+    "good_branch_score": 47.60739815008873
+  },
+  {
+    "acct_opng_brnch_id": 3426441,
+    "brnch_nm": "MID VALLEY",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3810,
+    "good_branch_score": 47.60654123433444
+  },
+  {
+    "acct_opng_brnch_id": 3426654,
+    "brnch_nm": "IBS TASEK GELUGOR SC",
+    "st_nm": "PENANG",
+    "Num": 960,
+    "good_branch_score": 47.5975408437402
+  },
+  {
+    "acct_opng_brnch_id": 3426632,
+    "brnch_nm": "IBS TANJUNG BUNGAH",
+    "st_nm": "PENANG",
+    "Num": 1177,
+    "good_branch_score": 47.574153504502654
+  },
+  {
+    "acct_opng_brnch_id": 3426587,
+    "brnch_nm": "IBS PORT DICKSON",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 1079,
+    "good_branch_score": 47.511560891819634
+  },
+  {
+    "acct_opng_brnch_id": 3426567,
+    "brnch_nm": "IBS BACHOK SC",
+    "st_nm": "KELANTAN",
+    "Num": 1829,
+    "good_branch_score": 47.496501259199825
+  },
+  {
+    "acct_opng_brnch_id": 3426113,
+    "brnch_nm": "PASIR GUDANG",
+    "st_nm": "JOHOR",
+    "Num": 376,
+    "good_branch_score": 47.48518170189858
+  },
+  {
+    "acct_opng_brnch_id": 3426316,
+    "brnch_nm": "SALIM COMMERCIAL CENTRE",
+    "st_nm": "SARAWAK",
+    "Num": 693,
+    "good_branch_score": 47.46130473877229
+  },
+  {
+    "acct_opng_brnch_id": 3426753,
+    "brnch_nm": "IBS SHAH ALAM MAIN",
+    "st_nm": "SELANGOR",
+    "Num": 9502,
+    "good_branch_score": 47.44437175327889
+  },
+  {
+    "acct_opng_brnch_id": 3426234,
+    "brnch_nm": "ALMA",
+    "st_nm": "PENANG",
+    "Num": 655,
+    "good_branch_score": 47.40864460669479
+  },
+  {
+    "acct_opng_brnch_id": 3426826,
+    "brnch_nm": "IBS MIB KUALA TERENGGANU",
+    "st_nm": "TERENGGANU",
+    "Num": 3625,
+    "good_branch_score": 47.38981002800474
+  },
+  {
+    "acct_opng_brnch_id": 3426828,
+    "brnch_nm": "IBS DUNGUN",
+    "st_nm": "TERENGGANU",
+    "Num": 2842,
+    "good_branch_score": 47.37125884942707
+  },
+  {
+    "acct_opng_brnch_id": 3426709,
+    "brnch_nm": "IBS PUTATAN",
+    "st_nm": "SABAH",
+    "Num": 1768,
+    "good_branch_score": 47.32506659877818
+  },
+  {
+    "acct_opng_brnch_id": 3426852,
+    "brnch_nm": "IBS JINJANG",
+    "st_nm": "FED. TERRITORY",
+    "Num": 317,
+    "good_branch_score": 47.32393577602116
+  },
+  {
+    "acct_opng_brnch_id": 3426600,
+    "brnch_nm": "IBS KUALA ROMPIN",
+    "st_nm": "PAHANG",
+    "Num": 1556,
+    "good_branch_score": 47.267931806705036
+  },
+  {
+    "acct_opng_brnch_id": 3426337,
+    "brnch_nm": "TMN MELAWATI, KL",
+    "st_nm": "SELANGOR",
+    "Num": 987,
+    "good_branch_score": 47.260631230274946
+  },
+  {
+    "acct_opng_brnch_id": 3426125,
+    "brnch_nm": "JLN SEGGET, JB",
+    "st_nm": "JOHOR",
+    "Num": 381,
+    "good_branch_score": 47.22992905087949
+  },
+  {
+    "acct_opng_brnch_id": 3426529,
+    "brnch_nm": "IBS PALOH SC",
+    "st_nm": "JOHOR",
+    "Num": 221,
+    "good_branch_score": 47.21862165025774
+  },
+  {
+    "acct_opng_brnch_id": 3426656,
+    "brnch_nm": "IBS IPOH MAIN, JSIS",
+    "st_nm": "PERAK",
+    "Num": 2628,
+    "good_branch_score": 47.20625635596916
+  },
+  {
+    "acct_opng_brnch_id": 3426878,
+    "brnch_nm": "IBS MIB WANGSA MAJU",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3351,
+    "good_branch_score": 47.20187705736836
+  },
+  {
+    "acct_opng_brnch_id": 3426823,
+    "brnch_nm": "IBS KUALA BERANG",
+    "st_nm": "TERENGGANU",
+    "Num": 2283,
+    "good_branch_score": 47.19516058287049
+  },
+  {
+    "acct_opng_brnch_id": 3426833,
+    "brnch_nm": "IBS AMPANG PARK",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3277,
+    "good_branch_score": 47.189742944140605
+  },
+  {
+    "acct_opng_brnch_id": 3426720,
+    "brnch_nm": "IBS JLN TAR, KUCHING",
+    "st_nm": "SARAWAK",
+    "Num": 2747,
+    "good_branch_score": 47.179231511286275
+  },
+  {
+    "acct_opng_brnch_id": 3426466,
+    "brnch_nm": "MONT KIARA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2443,
+    "good_branch_score": 47.17070762433892
+  },
+  {
+    "acct_opng_brnch_id": 3426591,
+    "brnch_nm": "IBS MANTIN",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 278,
+    "good_branch_score": 47.126646100945656
+  },
+  {
+    "acct_opng_brnch_id": 3426346,
+    "brnch_nm": "WISMA CONSPLANT",
+    "st_nm": "SELANGOR",
+    "Num": 1929,
+    "good_branch_score": 47.09773094426483
+  },
+  {
+    "acct_opng_brnch_id": 3426404,
+    "brnch_nm": "JLN IPOH, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1703,
+    "good_branch_score": 47.09124489190104
+  },
+  {
+    "acct_opng_brnch_id": 3426678,
+    "brnch_nm": "IBS PENGKALAN HULU SC",
+    "st_nm": "PERAK",
+    "Num": 318,
+    "good_branch_score": 47.07414531215217
+  },
+  {
+    "acct_opng_brnch_id": 426978,
+    "brnch_nm": "GREENLANE",
+    "st_nm": "PENANG",
+    "Num": 2378,
+    "good_branch_score": 47.06623975488672
+  },
+  {
+    "acct_opng_brnch_id": 3426309,
+    "brnch_nm": "MEDAN JAYA",
+    "st_nm": "SARAWAK",
+    "Num": 2089,
+    "good_branch_score": 47.05261702850959
+  },
+  {
+    "acct_opng_brnch_id": 3426877,
+    "brnch_nm": "IBS DESA PANDAN",
+    "st_nm": "FED. TERRITORY",
+    "Num": 3634,
+    "good_branch_score": 47.02399063864059
+  },
+  {
+    "acct_opng_brnch_id": 3426430,
+    "brnch_nm": "WISMA GENTING",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2173,
+    "good_branch_score": 47.000916164437115
+  },
+  {
+    "acct_opng_brnch_id": 3426349,
+    "brnch_nm": "KELANA JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 1850,
+    "good_branch_score": 46.98497009781971
+  },
+  {
+    "acct_opng_brnch_id": 3426275,
+    "brnch_nm": "KANGAR",
+    "st_nm": "PERLIS",
+    "Num": 102,
+    "good_branch_score": 46.9639271499264
+  },
+  {
+    "acct_opng_brnch_id": 3426712,
+    "brnch_nm": "IBS ALAMESRA",
+    "st_nm": "SABAH",
+    "Num": 1951,
+    "good_branch_score": 46.950213249359145
+  },
+  {
+    "acct_opng_brnch_id": 3426206,
+    "brnch_nm": "JERANTUT",
+    "st_nm": "PAHANG",
+    "Num": 60,
+    "good_branch_score": 46.93859450707747
+  },
+  {
+    "acct_opng_brnch_id": 3426803,
+    "brnch_nm": "IBS MUTIARA DAMANSARA, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 3283,
+    "good_branch_score": 46.91239557604612
+  },
+  {
+    "acct_opng_brnch_id": 3426762,
+    "brnch_nm": "IBS TMN MELAWATI, KL",
+    "st_nm": "SELANGOR",
+    "Num": 5519,
+    "good_branch_score": 46.91204046185037
+  },
+  {
+    "acct_opng_brnch_id": 3426623,
+    "brnch_nm": "IBS PENANG ROAD",
+    "st_nm": "PENANG",
+    "Num": 1652,
+    "good_branch_score": 46.875647329134885
+  },
+  {
+    "acct_opng_brnch_id": 3426688,
+    "brnch_nm": "IBS PARIT BUNTAR",
+    "st_nm": "PERAK",
+    "Num": 1236,
+    "good_branch_score": 46.873801202210345
+  },
+  {
+    "acct_opng_brnch_id": 3426764,
+    "brnch_nm": "IBS SUBANG JAYA",
+    "st_nm": "SELANGOR",
+    "Num": 3220,
+    "good_branch_score": 46.868586491616774
+  },
+  {
+    "acct_opng_brnch_id": 3426695,
+    "brnch_nm": "IBS KOTA KINABALU",
+    "st_nm": "SABAH",
+    "Num": 1919,
+    "good_branch_score": 46.865794135040886
+  },
+  {
+    "acct_opng_brnch_id": 3426423,
+    "brnch_nm": "TMN SEGAR, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2013,
+    "good_branch_score": 46.860685564639894
+  },
+  {
+    "acct_opng_brnch_id": 3426453,
+    "brnch_nm": "DESA SRI HARTAMAS",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2092,
+    "good_branch_score": 46.84561336943718
+  },
+  {
+    "acct_opng_brnch_id": 3426901,
+    "brnch_nm": "IBS LABUAN",
+    "st_nm": "LABUAN",
+    "Num": 2634,
+    "good_branch_score": 46.82796322972096
+  },
+  {
+    "acct_opng_brnch_id": 3426895,
+    "brnch_nm": "IBS SRI PETALING",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2133,
+    "good_branch_score": 46.82216511828352
+  },
+  {
+    "acct_opng_brnch_id": 3426224,
+    "brnch_nm": "TANJUNG BUNGAH",
+    "st_nm": "PENANG",
+    "Num": 556,
+    "good_branch_score": 46.78519142932411
+  },
+  {
+    "acct_opng_brnch_id": 3426406,
+    "brnch_nm": "JLN RAJA MUDA, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 161,
+    "good_branch_score": 46.77482271614345
+  },
+  {
+    "acct_opng_brnch_id": 3426555,
+    "brnch_nm": "IBS KULIM HI-TECH PARK",
+    "st_nm": "KEDAH",
+    "Num": 1831,
+    "good_branch_score": 46.74606506003763
+  },
+  {
+    "acct_opng_brnch_id": 3426324,
+    "brnch_nm": "KUALA KUBU BHARU",
+    "st_nm": "SELANGOR",
+    "Num": 247,
+    "good_branch_score": 46.71665526472214
+  },
+  {
+    "acct_opng_brnch_id": 3426300,
+    "brnch_nm": "BINTULU",
+    "st_nm": "SARAWAK",
+    "Num": 1159,
+    "good_branch_score": 46.64320392660644
+  },
+  {
+    "acct_opng_brnch_id": 3426177,
+    "brnch_nm": "CHENG",
+    "st_nm": "MELAKA",
+    "Num": 315,
+    "good_branch_score": 46.640313645190446
+  },
+  {
+    "acct_opng_brnch_id": 3426412,
+    "brnch_nm": "JLN RAJA LAUT, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 399,
+    "good_branch_score": 46.579146467671414
+  },
+  {
+    "acct_opng_brnch_id": 3426168,
+    "brnch_nm": "JLN MUNSHI ABDULLAH, MELAKA",
+    "st_nm": "MELAKA",
+    "Num": 132,
+    "good_branch_score": 46.578206017604096
+  },
+  {
+    "acct_opng_brnch_id": 426995,
+    "brnch_nm": "UEP SUBANG JAYA SC",
+    "st_nm": "SELANGOR",
+    "Num": 3534,
+    "good_branch_score": 46.567302208143154
+  },
+  {
+    "acct_opng_brnch_id": 3426788,
+    "brnch_nm": "IBS TMN BUKIT EMAS, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 730,
+    "good_branch_score": 46.55675013447131
+  },
+  {
+    "acct_opng_brnch_id": 3426857,
+    "brnch_nm": "IBS WISMA SIME DARBY",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1137,
+    "good_branch_score": 46.530836220150725
+  },
+  {
+    "acct_opng_brnch_id": 3426697,
+    "brnch_nm": "IBS TAWAU",
+    "st_nm": "SABAH",
+    "Num": 3813,
+    "good_branch_score": 46.525065132661474
+  },
+  {
+    "acct_opng_brnch_id": 3426579,
+    "brnch_nm": "IBS TMN MELAKA RAYA, MELAKA",
+    "st_nm": "MELAKA",
+    "Num": 1221,
+    "good_branch_score": 46.50177675525593
+  },
+  {
+    "acct_opng_brnch_id": 3426100,
+    "brnch_nm": "KULAI",
+    "st_nm": "JOHOR",
+    "Num": 396,
+    "good_branch_score": 46.4777923180404
+  },
+  {
+    "acct_opng_brnch_id": 3426439,
+    "brnch_nm": "JLN KENANGA, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 66,
+    "good_branch_score": 46.42184593106628
+  },
+  {
+    "acct_opng_brnch_id": 3426706,
+    "brnch_nm": "IBS KARAMUNSING",
+    "st_nm": "SABAH",
+    "Num": 4331,
+    "good_branch_score": 46.40434962453042
+  },
+  {
+    "acct_opng_brnch_id": 3426451,
+    "brnch_nm": "JLN P.RAMLEE, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1166,
+    "good_branch_score": 46.25325471561739
+  },
+  {
+    "acct_opng_brnch_id": 3426586,
+    "brnch_nm": "IBS BAHAU",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 869,
+    "good_branch_score": 46.24433185608101
+  },
+  {
+    "acct_opng_brnch_id": 3426760,
+    "brnch_nm": "IBS TMN SETIAWANGSA, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 4331,
+    "good_branch_score": 46.23070852145941
+  },
+  {
+    "acct_opng_brnch_id": 3426563,
+    "brnch_nm": "IBS WAKAF SIKU",
+    "st_nm": "KELANTAN",
+    "Num": 4493,
+    "good_branch_score": 46.224480944120494
+  },
+  {
+    "acct_opng_brnch_id": 3426886,
+    "brnch_nm": "IBS DESA SRI HARTAMAS",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2558,
+    "good_branch_score": 46.202064403054855
+  },
+  {
+    "acct_opng_brnch_id": 3426703,
+    "brnch_nm": "IBS JLN PERPADUAN, KK",
+    "st_nm": "SABAH",
+    "Num": 2282,
+    "good_branch_score": 46.19574374249638
+  },
+  {
+    "acct_opng_brnch_id": 3426289,
+    "brnch_nm": "PUTATAN",
+    "st_nm": "SABAH",
+    "Num": 116,
+    "good_branch_score": 46.164730252390946
+  },
+  {
+    "acct_opng_brnch_id": 3426903,
+    "brnch_nm": "IBS SHAFTSBURY, CYBERJAYA",
+    "st_nm": "SELANGOR",
+    "Num": 2398,
+    "good_branch_score": 46.1232393035735
+  },
+  {
+    "acct_opng_brnch_id": 3426842,
+    "brnch_nm": "IBS RIVERCITY, JLN IPOH",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1046,
+    "good_branch_score": 46.109632102917736
+  },
+  {
+    "acct_opng_brnch_id": 3426765,
+    "brnch_nm": "IBS SS2, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 1163,
+    "good_branch_score": 46.101434708300076
+  },
+  {
+    "acct_opng_brnch_id": 3426727,
+    "brnch_nm": "IBS MUKAH",
+    "st_nm": "SARAWAK",
+    "Num": 212,
+    "good_branch_score": 46.10054031255472
+  },
+  {
+    "acct_opng_brnch_id": 3426700,
+    "brnch_nm": "IBS KUDAT",
+    "st_nm": "SABAH",
+    "Num": 496,
+    "good_branch_score": 46.065228544746006
+  },
+  {
+    "acct_opng_brnch_id": 3426858,
+    "brnch_nm": "IBS JLN 222, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 1416,
+    "good_branch_score": 46.04622431858465
+  },
+  {
+    "acct_opng_brnch_id": 3426853,
+    "brnch_nm": "IBS DATARAN MAYBANK",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2189,
+    "good_branch_score": 45.986034935571354
+  },
+  {
+    "acct_opng_brnch_id": 3426869,
+    "brnch_nm": "IBS MENARA PERKESO",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1690,
+    "good_branch_score": 45.97350928682914
+  },
+  {
+    "acct_opng_brnch_id": 3426836,
+    "brnch_nm": "IBS BUKIT BINTANG",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1213,
+    "good_branch_score": 45.957551396901906
+  },
+  {
+    "acct_opng_brnch_id": 3426766,
+    "brnch_nm": "IBS TMN PUTRA, AMPANG",
+    "st_nm": "SELANGOR",
+    "Num": 1477,
+    "good_branch_score": 45.92263174600798
+  },
+  {
+    "acct_opng_brnch_id": 3426722,
+    "brnch_nm": "IBS SIBU",
+    "st_nm": "SARAWAK",
+    "Num": 3296,
+    "good_branch_score": 45.86318358003883
+  },
+  {
+    "acct_opng_brnch_id": 3426750,
+    "brnch_nm": "IBS KUALA KUBU BHARU",
+    "st_nm": "SELANGOR",
+    "Num": 1396,
+    "good_branch_score": 45.794720527788805
+  },
+  {
+    "acct_opng_brnch_id": 3426607,
+    "brnch_nm": "IBS KUALA LIPIS",
+    "st_nm": "PAHANG",
+    "Num": 1284,
+    "good_branch_score": 45.78000356231349
+  },
+  {
+    "acct_opng_brnch_id": 3426845,
+    "brnch_nm": "IBS SEA PARK",
+    "st_nm": "SELANGOR",
+    "Num": 1084,
+    "good_branch_score": 45.7757161185055
+  },
+  {
+    "acct_opng_brnch_id": 3426899,
+    "brnch_nm": "IBS MONT KIARA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 6282,
+    "good_branch_score": 45.770873515621005
+  },
+  {
+    "acct_opng_brnch_id": 3426408,
+    "brnch_nm": "JLN KLANG LAMA, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2402,
+    "good_branch_score": 45.768791360366805
+  },
+  {
+    "acct_opng_brnch_id": 3426808,
+    "brnch_nm": "IBS BANDAR SUNGAI LONG",
+    "st_nm": "SELANGOR",
+    "Num": 865,
+    "good_branch_score": 45.75465184109333
+  },
+  {
+    "acct_opng_brnch_id": 3426802,
+    "brnch_nm": "IBS GIZA, KOTA DAMANSARA",
+    "st_nm": "SELANGOR",
+    "Num": 2866,
+    "good_branch_score": 45.70705274642229
+  },
+  {
+    "acct_opng_brnch_id": 3426235,
+    "brnch_nm": "BANDAR BARU AIR ITAM",
+    "st_nm": "PENANG",
+    "Num": 169,
+    "good_branch_score": 45.6815837443443
+  },
+  {
+    "acct_opng_brnch_id": 3426253,
+    "brnch_nm": "BATU GAJAH",
+    "st_nm": "PERAK",
+    "Num": 64,
+    "good_branch_score": 45.67150931690985
+  },
+  {
+    "acct_opng_brnch_id": 3426733,
+    "brnch_nm": "IBS MEDAN JAYA",
+    "st_nm": "SARAWAK",
+    "Num": 609,
+    "good_branch_score": 45.63937090743857
+  },
+  {
+    "acct_opng_brnch_id": 3426893,
+    "brnch_nm": "IBS SOGO SC",
+    "st_nm": "FED. TERRITORY",
+    "Num": 462,
+    "good_branch_score": 45.616590673698504
+  },
+  {
+    "acct_opng_brnch_id": 3426834,
+    "brnch_nm": "IBS SETAPAK",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1179,
+    "good_branch_score": 45.562463211530954
+  },
+  {
+    "acct_opng_brnch_id": 3426348,
+    "brnch_nm": "SECTION 14, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 1245,
+    "good_branch_score": 45.51926048061416
+  },
+  {
+    "acct_opng_brnch_id": 3426542,
+    "brnch_nm": "IBS AEON BUKIT INDAH, JB SC",
+    "st_nm": "JOHOR",
+    "Num": 545,
+    "good_branch_score": 45.462534165971114
+  },
+  {
+    "acct_opng_brnch_id": 3426840,
+    "brnch_nm": "IBS BANGSAR BARU",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1572,
+    "good_branch_score": 45.45714384160123
+  },
+  {
+    "acct_opng_brnch_id": 3426614,
+    "brnch_nm": "IBS JERANTUT",
+    "st_nm": "PAHANG",
+    "Num": 1458,
+    "good_branch_score": 45.36079242990397
+  },
+  {
+    "acct_opng_brnch_id": 3426711,
+    "brnch_nm": "IBS MIB SADONG JAYA",
+    "st_nm": "SABAH",
+    "Num": 1297,
+    "good_branch_score": 45.32965493969198
+  },
+  {
+    "acct_opng_brnch_id": 3426819,
+    "brnch_nm": "IBS SERI KEMBANGAN",
+    "st_nm": "SELANGOR",
+    "Num": 1144,
+    "good_branch_score": 45.31269013539013
+  },
+  {
+    "acct_opng_brnch_id": 3426741,
+    "brnch_nm": "IBS SALIM COMMERCIAL CENTRE",
+    "st_nm": "SARAWAK",
+    "Num": 1199,
+    "good_branch_score": 45.29647386103888
+  },
+  {
+    "acct_opng_brnch_id": 3426279,
+    "brnch_nm": "SEMPORNA",
+    "st_nm": "SABAH",
+    "Num": 1114,
+    "good_branch_score": 45.14937248107039
+  },
+  {
+    "acct_opng_brnch_id": 3426671,
+    "brnch_nm": "IBS IPOH GARDEN",
+    "st_nm": "PERAK",
+    "Num": 1227,
+    "good_branch_score": 45.14120053235855
+  },
+  {
+    "acct_opng_brnch_id": 3426812,
+    "brnch_nm": "IBS BANDAR UTAMA",
+    "st_nm": "SELANGOR",
+    "Num": 893,
+    "good_branch_score": 45.13145434943637
+  },
+  {
+    "acct_opng_brnch_id": 3426604,
+    "brnch_nm": "IBS TRIANG",
+    "st_nm": "PAHANG",
+    "Num": 1562,
+    "good_branch_score": 45.102759159831265
+  },
+  {
+    "acct_opng_brnch_id": 3426265,
+    "brnch_nm": "PENGKALAN HULU SC",
+    "st_nm": "PERAK",
+    "Num": 24,
+    "good_branch_score": 45.080695405104024
+  },
+  {
+    "acct_opng_brnch_id": 3426756,
+    "brnch_nm": "IBS KUALA SELANGOR",
+    "st_nm": "SELANGOR",
+    "Num": 1103,
+    "good_branch_score": 44.998192937489186
+  },
+  {
+    "acct_opng_brnch_id": 3426773,
+    "brnch_nm": "IBS SECTION 14, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 571,
+    "good_branch_score": 44.92949958587942
+  },
+  {
+    "acct_opng_brnch_id": 3426714,
+    "brnch_nm": "IBS KK INT'L AIRPORT SC",
+    "st_nm": "SABAH",
+    "Num": 486,
+    "good_branch_score": 44.8344115014145
+  },
+  {
+    "acct_opng_brnch_id": 3426427,
+    "brnch_nm": "BUKIT DAMANSARA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1079,
+    "good_branch_score": 44.78898521344419
+  },
+  {
+    "acct_opng_brnch_id": 3426450,
+    "brnch_nm": "JLN SULTAN ISMAIL, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 334,
+    "good_branch_score": 44.764475911870534
+  },
+  {
+    "acct_opng_brnch_id": 3426837,
+    "brnch_nm": "IBS JLN RAJA MUDA, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2327,
+    "good_branch_score": 44.74644779261499
+  },
+  {
+    "acct_opng_brnch_id": 3426702,
+    "brnch_nm": "IBS KENINGAU",
+    "st_nm": "SABAH",
+    "Num": 1228,
+    "good_branch_score": 44.72423830679339
+  },
+  {
+    "acct_opng_brnch_id": 3426884,
+    "brnch_nm": "IBS JLN P.RAMLEE, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 669,
+    "good_branch_score": 44.70145601931767
+  },
+  {
+    "acct_opng_brnch_id": 3426838,
+    "brnch_nm": "IBS KOMPLEKS DAYABUMI",
+    "st_nm": "FED. TERRITORY",
+    "Num": 806,
+    "good_branch_score": 44.62951806640201
+  },
+  {
+    "acct_opng_brnch_id": 3426322,
+    "brnch_nm": "BANTING",
+    "st_nm": "SELANGOR",
+    "Num": 326,
+    "good_branch_score": 44.515571156066876
+  },
+  {
+    "acct_opng_brnch_id": 3426223,
+    "brnch_nm": "BAYAN LEPAS",
+    "st_nm": "PENANG",
+    "Num": 1338,
+    "good_branch_score": 44.45695530580597
+  },
+  {
+    "acct_opng_brnch_id": 3426699,
+    "brnch_nm": "IBS LAHAD DATU",
+    "st_nm": "SABAH",
+    "Num": 1360,
+    "good_branch_score": 44.37630080482326
+  },
+  {
+    "acct_opng_brnch_id": 3426829,
+    "brnch_nm": "IBS KUALA LUMPUR MAIN",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1494,
+    "good_branch_score": 44.33375470484783
+  },
+  {
+    "acct_opng_brnch_id": 426971,
+    "brnch_nm": "MELAKA MAIN",
+    "st_nm": "MELAKA",
+    "Num": 394,
+    "good_branch_score": 44.290385671979486
+  },
+  {
+    "acct_opng_brnch_id": 3426655,
+    "brnch_nm": "IBS IPOH MAIN",
+    "st_nm": "PERAK",
+    "Num": 1067,
+    "good_branch_score": 44.27575783071788
+  },
+  {
+    "acct_opng_brnch_id": 3426616,
+    "brnch_nm": "IBS PEKAN",
+    "st_nm": "PAHANG",
+    "Num": 2253,
+    "good_branch_score": 44.11110169974665
+  },
+  {
+    "acct_opng_brnch_id": 3426240,
+    "brnch_nm": "SEBERANG JAYA",
+    "st_nm": "PENANG",
+    "Num": 190,
+    "good_branch_score": 44.062987356992345
+  },
+  {
+    "acct_opng_brnch_id": 3426891,
+    "brnch_nm": "IBS MIB TTDI",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2129,
+    "good_branch_score": 44.02586358914989
+  },
+  {
+    "acct_opng_brnch_id": 3426863,
+    "brnch_nm": "IBS WISMA GENTING",
+    "st_nm": "FED. TERRITORY",
+    "Num": 581,
+    "good_branch_score": 44.01703971286062
+  },
+  {
+    "acct_opng_brnch_id": 17393262,
+    "brnch_nm": "IBS MENARA PNB SC",
+    "st_nm": "FED. TERRITORY",
+    "Num": 159,
+    "good_branch_score": 43.59192233973479
+  },
+  {
+    "acct_opng_brnch_id": 3426883,
+    "brnch_nm": "IBS JLN SULTAN ISMAIL, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 340,
+    "good_branch_score": 43.46777937832593
+  },
+  {
+    "acct_opng_brnch_id": 3426416,
+    "brnch_nm": "JLN MAKTAB, KL SC",
+    "st_nm": "FED. TERRITORY",
+    "Num": 47,
+    "good_branch_score": 43.43280872391338
+  },
+  {
+    "acct_opng_brnch_id": 3426874,
+    "brnch_nm": "IBS KLCC",
+    "st_nm": "FED. TERRITORY",
+    "Num": 4431,
+    "good_branch_score": 43.42310745056154
+  },
+  {
+    "acct_opng_brnch_id": 3426585,
+    "brnch_nm": "IBS KUALA PILAH",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 541,
+    "good_branch_score": 43.2027067782553
+  },
+  {
+    "acct_opng_brnch_id": 3426868,
+    "brnch_nm": "IBS TECHNOLOGY PARK MALAYSIA",
+    "st_nm": "SELANGOR",
+    "Num": 1070,
+    "good_branch_score": 43.10936906445855
+  },
+  {
+    "acct_opng_brnch_id": 3426407,
+    "brnch_nm": "KOMPLEKS DAYABUMI",
+    "st_nm": "FED. TERRITORY",
+    "Num": 104,
+    "good_branch_score": 43.08751691488391
+  },
+  {
+    "acct_opng_brnch_id": 3426589,
+    "brnch_nm": "IBS KUALA KLAWANG",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 385,
+    "good_branch_score": 43.08730497152385
+  },
+  {
+    "acct_opng_brnch_id": 3426817,
+    "brnch_nm": "IBS SAAS AIRPORT SC",
+    "st_nm": "SELANGOR",
+    "Num": 407,
+    "good_branch_score": 43.087105683669805
+  },
+  {
+    "acct_opng_brnch_id": 3426251,
+    "brnch_nm": "KUALA KANGSAR",
+    "st_nm": "PERAK",
+    "Num": 28,
+    "good_branch_score": 43.0828789628448
+  },
+  {
+    "acct_opng_brnch_id": 3426442,
+    "brnch_nm": "KLCC",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2301,
+    "good_branch_score": 42.84114209976423
+  },
+  {
+    "acct_opng_brnch_id": 3426401,
+    "brnch_nm": "KUALA LUMPUR MAIN",
+    "st_nm": "FED. TERRITORY",
+    "Num": 2575,
+    "good_branch_score": 42.79569866330289
+  },
+  {
+    "acct_opng_brnch_id": 17393261,
+    "brnch_nm": "IBS MENARA FELDA, PLATINUM PAR",
+    "st_nm": "FED. TERRITORY",
+    "Num": 187,
+    "good_branch_score": 42.70757944162718
+  },
+  {
+    "acct_opng_brnch_id": 3426467,
+    "brnch_nm": "KOMPLEKS MAHKAMAH SC",
+    "st_nm": "FED. TERRITORY",
+    "Num": 30,
+    "good_branch_score": 42.4976041381445
+  },
+  {
+    "acct_opng_brnch_id": 3426298,
+    "brnch_nm": "LAWAS",
+    "st_nm": "SARAWAK",
+    "Num": 906,
+    "good_branch_score": 42.429228265789334
+  },
+  {
+    "acct_opng_brnch_id": 3426293,
+    "brnch_nm": "RANAU",
+    "st_nm": "SABAH",
+    "Num": 1625,
+    "good_branch_score": 42.307183063021
+  },
+  {
+    "acct_opng_brnch_id": 3426159,
+    "brnch_nm": "WAKAF SIKU",
+    "st_nm": "KELANTAN",
+    "Num": 149,
+    "good_branch_score": 42.095583953639206
+  },
+  {
+    "acct_opng_brnch_id": 3426704,
+    "brnch_nm": "IBS KUNAK SC",
+    "st_nm": "SABAH",
+    "Num": 1126,
+    "good_branch_score": 42.0379332472852
+  },
+  {
+    "acct_opng_brnch_id": 3426860,
+    "brnch_nm": "IBS BUKIT DAMANSARA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 1230,
+    "good_branch_score": 41.95539210357753
+  },
+  {
+    "acct_opng_brnch_id": 3426715,
+    "brnch_nm": "IBS RANAU",
+    "st_nm": "SABAH",
+    "Num": 508,
+    "good_branch_score": 41.83005353238332
+  },
+  {
+    "acct_opng_brnch_id": 3426885,
+    "brnch_nm": "IBS KL SENTRAL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 5317,
+    "good_branch_score": 41.697295425196096
+  },
+  {
+    "acct_opng_brnch_id": 3426114,
+    "brnch_nm": "TAMPOI",
+    "st_nm": "JOHOR",
+    "Num": 706,
+    "good_branch_score": 41.62432794529605
+  },
+  {
+    "acct_opng_brnch_id": 3426400,
+    "brnch_nm": "DUNGUN",
+    "st_nm": "TERENGGANU",
+    "Num": 36,
+    "good_branch_score": 41.42941185807768
+  },
+  {
+    "acct_opng_brnch_id": 426988,
+    "brnch_nm": "LIMBANG",
+    "st_nm": "SARAWAK",
+    "Num": 142,
+    "good_branch_score": 41.397955238815506
+  },
+  {
+    "acct_opng_brnch_id": 3426771,
+    "brnch_nm": "IBS WISMA CONSPLANT",
+    "st_nm": "SELANGOR",
+    "Num": 1900,
+    "good_branch_score": 41.29910350745115
+  },
+  {
+    "acct_opng_brnch_id": 3426367,
+    "brnch_nm": "KELANA BUSINESS CENTRE SC",
+    "st_nm": "SELANGOR",
+    "Num": 262,
+    "good_branch_score": 40.84334337313539
+  },
+  {
+    "acct_opng_brnch_id": 3426435,
+    "brnch_nm": "TMN MALURI, KL",
+    "st_nm": "FED. TERRITORY",
+    "Num": 228,
+    "good_branch_score": 40.759233103115186
+  },
+  {
+    "acct_opng_brnch_id": 3426846,
+    "brnch_nm": "IBS JLN YONG SHOOK LIN, PJ",
+    "st_nm": "SELANGOR",
+    "Num": 1229,
+    "good_branch_score": 40.33162438542446
+  },
+  {
+    "acct_opng_brnch_id": 3426716,
+    "brnch_nm": "IBS BEAUFORT",
+    "st_nm": "SABAH",
+    "Num": 2206,
+    "good_branch_score": 39.43383093685479
+  },
+  {
+    "acct_opng_brnch_id": 3426696,
+    "brnch_nm": "IBS SANDAKAN",
+    "st_nm": "SABAH",
+    "Num": 805,
+    "good_branch_score": 39.37356074098703
+  },
+  {
+    "acct_opng_brnch_id": 3426471,
+    "brnch_nm": "PUTRAJAYA",
+    "st_nm": "FED. TERRITORY",
+    "Num": 133,
+    "good_branch_score": 39.17071794144735
+  },
+  {
+    "acct_opng_brnch_id": 3426186,
+    "brnch_nm": "GEMENCHEH SC",
+    "st_nm": "NEGERI SEMBILAN",
+    "Num": 164,
+    "good_branch_score": 38.882342463783914
+  },
+  {
+    "acct_opng_brnch_id": 3426215,
+    "brnch_nm": "PENANG ROAD",
+    "st_nm": "PENANG",
+    "Num": 144,
+    "good_branch_score": 38.59094977888058
+  },
+  {
+    "acct_opng_brnch_id": 3426667,
+    "brnch_nm": "IBS LENGGONG SC",
+    "st_nm": "PERAK",
+    "Num": 351,
+    "good_branch_score": 38.08276698844385
+  },
+  {
+    "acct_opng_brnch_id": 3426794,
+    "brnch_nm": "IBS KELANA BUSINESS CENTRE SC",
+    "st_nm": "SELANGOR",
+    "Num": 818,
+    "good_branch_score": 38.05070715562048
+  },
+  {
+    "acct_opng_brnch_id": 3426698,
+    "brnch_nm": "IBS SEMPORNA",
+    "st_nm": "SABAH",
+    "Num": 3059,
+    "good_branch_score": 37.99115910638114
+  },
+  {
+    "acct_opng_brnch_id": 3426470,
+    "brnch_nm": "LABUAN",
+    "st_nm": "LABUAN",
+    "Num": 1997,
+    "good_branch_score": 37.94642295110242
+  },
+  {
+    "acct_opng_brnch_id": 3426436,
+    "brnch_nm": "TECHNOLOGY PARK MALAYSIA",
+    "st_nm": "SELANGOR",
+    "Num": 146,
+    "good_branch_score": 37.70837958154965
+  },
+  {
+    "acct_opng_brnch_id": 426991,
+    "brnch_nm": "SIBU CENTRAL",
+    "st_nm": "SARAWAK",
+    "Num": 159,
+    "good_branch_score": 37.05855955957148
+  },
+  {
+    "acct_opng_brnch_id": 3426158,
+    "brnch_nm": "KUALA KRAI",
+    "st_nm": "KELANTAN",
+    "Num": 23,
+    "good_branch_score": 36.32855748282718
+  },
+  {
+    "acct_opng_brnch_id": 3426115,
+    "brnch_nm": "YONG PENG",
+    "st_nm": "JOHOR",
+    "Num": 57,
+    "good_branch_score": 36.190014166835326
+  },
+  {
+    "acct_opng_brnch_id": 3426193,
+    "brnch_nm": "KUALA ROMPIN",
+    "st_nm": "PAHANG",
+    "Num": 30,
+    "good_branch_score": 33.953261348349386
+  },
+  {
+    "acct_opng_brnch_id": 3426294,
+    "brnch_nm": "BEAUFORT",
+    "st_nm": "SABAH",
+    "Num": 788,
+    "good_branch_score": 32.886577268305516
+  },
+  {
+    "acct_opng_brnch_id": 3426685,
+    "brnch_nm": "IBS MALIM NAWAR SC",
+    "st_nm": "PERAK",
+    "Num": 30,
+    "good_branch_score": 32.50098215454946
+  },
+  {
+    "acct_opng_brnch_id": 3426469,
+    "brnch_nm": "MENARA PNB SC",
+    "st_nm": "FED. TERRITORY",
+    "Num": 42,
+    "good_branch_score": 32.17191077671559
+  },
+  {
+    "acct_opng_brnch_id": 3426120,
+    "brnch_nm": "ULU TIRAM",
+    "st_nm": "JOHOR",
+    "Num": 72,
+    "good_branch_score": 31.144418385933164
+  },
+  {
+    "acct_opng_brnch_id": 3426123,
+    "brnch_nm": "KOTA ISKANDAR, NUSAJAYA SC",
+    "st_nm": "JOHOR",
+    "Num": 36,
+    "good_branch_score": 30.708877486636748
+  },
+  {
+    "acct_opng_brnch_id": 17392737,
+    "brnch_nm": "MALIM NAWAR SC",
+    "st_nm": "PERAK",
+    "Num": 10,
+    "good_branch_score": 29.642912415623996
+  },
+  {
+    "acct_opng_brnch_id": 3426151,
+    "brnch_nm": "KODIANG SC",
+    "st_nm": "KEDAH",
+    "Num": 27,
+    "good_branch_score": 24.088501053583972
+  },
+  {
+    "acct_opng_brnch_id": 3426236,
+    "brnch_nm": "MIB BAGAN BUTTERWORTH",
+    "st_nm": "PENANG",
+    "Num": 24,
+    "good_branch_score": ""
+  },
+  {
+    "acct_opng_brnch_id": 3426421,
+    "brnch_nm": "KOMPLEKS WILAYAH",
+    "st_nm": "FED. TERRITORY",
+    "Num": 6,
+    "good_branch_score": ""
+  },
+  {
+    "acct_opng_brnch_id": 3426647,
+    "brnch_nm": "IBS TMN DESA DAMAI,BKT MERTAJA",
+    "st_nm": "PENANG",
+    "Num": 120,
+    "good_branch_score": ""
+  },
+  {
+    "acct_opng_brnch_id": 43305060,
+    "brnch_nm": "IBS AEON MALL SHAH ALAM",
+    "st_nm": "SELANGOR",
+    "Num": 23,
+    "good_branch_score": ""
+  }
+]
